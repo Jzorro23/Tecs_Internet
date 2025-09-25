@@ -1,0 +1,20 @@
+https://www.figma.com/design/za2FPg041wjLRpnDu6Rzb5/Cash-App-Animas
+
+Juan Acosta, Sergio Mendez, Sofía Marín, Juan Zorro
+
+1. Entrada 
+Para la animación de entrada se creó una pantalla de inicio con las imágenes fuera de frame para tener una pantalla
+de inicio vacía, luego se creó una pantalla con los elementos dentro del frame. Se animó la transición de una a otra con
+un after delay y se hizo una smart animation con bouncy para tener un efecto mas orgánico, el bouncy se le amplió el tiempo para
+tener un bouncy más lento y que se note más.
+
+2. Ojo y Botones
+La animación del ojo funciona como un carrusel de imágenes junto con una máscara que permite ocultar partes del ojo para simular
+su parpadeo. La máscara es usada para generar cada una de las partes progresivamente en los estados del componente simulando los
+párpados, mientras la pupila se mueve por cada imagen para que a la hora de reproducirse de la ilusión de que el ojo parpadea
+mientras mira alrededor. Cada imagen tiene un delay pequeño junto a un smart animate para dar ilusión de movimiento, mientras tanto
+el componente tiene un while hovering para que a la hora de poner el mouse sobre el elemento se reproduzca la animación.
+
+El símbolo de dólar y los botones de aplicaciones funcionan de la misma manera que el ojo. Son botones con 2 componentes 
+y 2 estados distintos que se alternan a través de un smart animate con un delay pequeño. El componente que contiene los estados en  
+ambos casos tiene while hovering activo como estado de interacción.

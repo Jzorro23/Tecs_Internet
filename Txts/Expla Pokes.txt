@@ -1,0 +1,19 @@
+https://www.figma.com/design/HJvLlkLhZZapGmpxYfLhX7/Practica-Animas-Pokemon
+
+Juan Zorro, Sergio Mendez, Sofía Marín y Juan Acosta
+
+La primera pantalla se generó utilizando los ejemplos dados por la clase tal y como estaban, sólo ajustamos tamaños. El scroll lateral
+fuera de pantalla se hizo alineando las imágenes de manera lateral y poniendo todas en un frame del tamaño de la pantalla en width, eso
+hace que los objetos se puedan esconder por fuera de la pantalla pero sean asequibles haciendo un drag sobre ellos.
+El efecto de luz que se tiene sobre cada una de las pantallas se hizo ubicando un círculo similar al color del fondo, pero más claro, con
+el efecto de Layer Blur en un valor muy grande para que se vea difuminado.
+
+Los personajes de Charmander (Dragon Naranja), Pikachu (Roedor Amarillo), Squirtle (Tortuga Cyan) y Bulbasur (Tortuga Verde con Planta)
+son interaccionables y pueden cambiar de escena hacia su propia página, que contiene un texto descriptivo y su nombre en Japonés. El
+cambio de página se hizo con la acción On Click y Navigate To. La animacion es Smart Animate que genera el cambio en forma Slow Fade.
+
+En el lateral izquiero de las páginas de personaje se encuentran dos de los personajes contiguos que también tienen página. Estos están
+con el efecto de Layer Blur para dar a entender que no son los personajes de los cuales se trata la pagina actual, pero son
+interaccionables y cambian a su pagina propia con la accion On Click y Navigate To.
+Todos utilizan Smart Animate y una curvatura Slow. Gracias al Smart Animate la mayoria tienen una animacion que parece que el personaje
+sube al frente de la pantalla.

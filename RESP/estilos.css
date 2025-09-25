@@ -1,0 +1,213 @@
+*{
+	margin:0;
+	padding:0;
+	font-family: sans-serif;
+}
+.mycontent{
+	width: 100%;
+	min-height: 100vh;
+	padding-left: 8%;
+	padding-right: 8%;
+	box-sizing: border-box;
+	overflow: hidden;
+}
+.mynavbar{
+	width: 100%;
+	display:flex;
+	align-items: center;
+}
+.mylogo{
+	width: 50px;
+	cursor:pointer;
+	margin: 30px 0;
+}
+.mymenu-icon{
+	width: 25px;
+	cursor: pointer;
+	display: none; /* Step 2 media queries*/
+}
+nav{
+	flex:1;
+	text-align: right;
+}
+nav ul li{
+	list-style: none;
+	display: inline-block;
+	margin-right: 30px;
+}
+nav ul li a{
+	text-decoration: none;
+	color: #000;
+	font-size: 14px;
+}
+nav ul li a:hover{
+	color: #ff5ea2
+}
+.myrow{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin: 100px 0;
+	flex-wrap: nowrap;
+}
+
+.mycol-1{
+	flex-basis: 40%;
+	position: relative;
+	margin-left: 50px;
+}
+
+.mycol-1 h2{
+	font-size: 54px;
+}
+.mycol-1 h3{
+	font-size: 30px;
+	color: #707070;
+	font-weight: 100;
+	padding: 30px 0px 10px;
+}
+.mycol-1 p{
+	font-size: 16px;
+	color: #b7b7b7;
+	font-weight: 100;
+}
+.mycol-1 h4{
+	margin: 30px 0;
+	font-size: 20px;
+}
+button{
+	width: 140px;
+	border:0;
+	padding: 12px 10px;
+	outline: none;
+	color: #fff;
+	background: linear-gradient(to right,#fb5283,#ff3527);
+	border-radius:6px;
+	cursor: pointer;
+	transition: width 0.5s; /* agregar luego del over */
+}
+button:hover{
+	width: 160px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+button img{
+	width: 30px;
+	display: none;
+}
+button:hover img{
+	display: block;
+}
+
+.mycol-1::after{
+	content: '';
+	width: 10px;
+	height: 57%;
+	background: linear-gradient(#ff469f,#ff6062);
+	position: absolute;
+	left: -40px;
+	top: 8px;
+}
+.mycol-2{
+	position: relative;
+	flex-basis: 60%;
+	display: flex;
+	align-items: center;
+}
+.mycol-2 .controller{
+	width: 90%;
+}
+.mycolor-box{
+	position: absolute;
+	right: 0;
+	top: 0;
+	background: linear-gradient(#ff54a2,#ff575a);
+	border-radius: 20px 0 0 20px;
+	height: 100%;
+	width: 80%;
+	z-index: -1;
+	transform: translateX(150px);
+}
+.myadd-btn{
+	text-align: center;
+	color: #fff;
+	cursor: pointer;
+	z-index: 2;
+}
+.myadd-btn img{
+	width: 35px;
+	margin-bottom: 5px;
+}
+
+.mysocial-links img{
+	height: 13px;
+	margin: 20px;
+	cursor: pointer;
+}
+.mysocial-links{
+	text-align: center;
+}
+
+#botColor{
+	font-size: larger;
+	width: 20%;
+	position: relative;
+	left: 40%;
+}
+
+@media only screen and (max-width:700px){
+	/* Step 3 media queries*/
+	nav ul{
+		width: 100%;
+		background: linear-gradient(#ff54a2,#ff575a);
+		position: absolute;
+		top: 75px;
+		right: 0;
+		z-index: 10;
+	}
+
+	.myadd-btn{
+		color: black;
+	}
+
+	nav ul li{
+		display: block;
+		margin-top: 10px;
+		margin-bottom: 10px;
+	}
+	nav ul li a{
+		color:#fff;
+	}
+	/* Step 3 media queries*/
+	.mymenu-icon{
+		display: block; 
+	}
+	#menuList{
+		overflow: hidden;
+		transition: 0.5s;
+	}
+	.myrow{
+		flex-direction: column-reverse;
+		margin: 15px 0;
+	}
+	.mycol-2{
+		flex-basis: 100%;
+		margin-bottom: 50px;
+	}
+	.mycol-2 .controller{
+		width: 77%;
+	}
+	.color-box{
+		transform: translateX(75px);
+	}
+	.mycol-1{
+		flex-basis: 100%;
+	}
+	.mycol-1 h2{
+		font-size: 35px;
+	}
+	.mycol-1 h3{
+		font-size: 15px;
+	}
+}

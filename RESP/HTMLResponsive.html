@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="estilos.css"/> 
+    <title>Responsive</title>
+</head>
+<body>
+    <div class="mycontent">
+        <div class="mynavbar">
+            <img src="images/logo.png" class="mylogo">
+            <nav>
+                <!-- El id menuList se requiere para la funcion onclick() -->
+                <ul id="menuList">
+                    <li><a href="">Option 1</a></li>
+                    <li><a href="">Option 2</a></li>
+                    <li><a href="">Option 3</a></li>
+                    <li><a href="">Option 4</a></li>
+                </ul>
+            </nav>
+            <img src="images/menu.png" class="mymenu-icon" onclick="togglemenu()">
+        </div>
+
+        <div class="myrow">
+            <div class="mycol-1">
+                <h2>
+                <span id="T1OR">Title 1</span><br>
+                <span id="T2OR">Title 2</span>
+                </h2>
+                <h3 id="SOR">Subtitle 1</h3>
+                <p id="DESCOR">Description</p>
+                <h4 id="PRECIOOR">$###.##</h4>
+                <button type="button" data-bs-toggle="modal" data-bs-target="#myModal2">Button<img src="images/arrow.png"></button>
+            </div>
+            <div class="mycol-2">
+                <img src="images/controller.png" class="controller" id="imageS">
+                <div class="mycolor-box" id="colorBox"></div>
+                <div class="myadd-btn">
+                    <img src="images/add.png" data-bs-toggle="modal" data-bs-target="#myModal1">
+                    <p>Button 2</p>
+                </div>
+            </div>
+        </div>
+
+        <button id="botColor" onclick="changeColor()">Color</button>
+
+        <div class="mysocial-links">
+            <img src="images/fb.png">
+            <img src="images/tw.png">
+            <img src="images/ig.png">
+        </div>
+    </div>
+    <script>
+
+        var menuList=document.getElementById("menuList");
+        menuList.style.maxHeight="0px";
+        
+        function togglemenu(){
+            
+            if( menuList.style.maxHeight=="0px")
+            {
+                menuList.style.maxHeight="140px";
+            }
+            else
+            {
+                menuList.style.maxHeight="0px";
+            }
+
+        }
+    </script>
+
+    <div class="modal" id="myModal1">
+        <div class="modal-dialog">
+            <div class="modal-content">
+
+            <!-- Modal Header -->
+            <div class="modal-header">
+                <h4 class="modal-title">Choose an Image</h4>
+                <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+            </div>
+
+            <!-- Modal body -->
+            <div class="modal-body">
+                <ul style="list-style: none; display: flex;">
+                    <li style="width: 20%;"><img src="images/controller.png" style="width: 100%;" onclick="image(1)"></li>
+                    <li style="width: 20%;"><img src="images/hotdog.png" style="width: 100%;" onclick="image(2)"></li>
+                    <li style="width: 20%;"><img src="images/storm.png" style="width: 100%;" onclick="image(3)"></li>
+                    <li style="width: 20%;"><img src="images/led.png" style="width: 100%;" onclick="image(4)"></li>
+                    <li style="width: 20%;"><img src="images/egg.png" style="width: 100%;" onclick="image(5)"></li>
+                </ul>
+            </div>
+
+            <!-- Modal footer -->
+            <div class="modal-footer">
+                <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
+            </div>
+
+            </div>
+        </div>
+    </div>
+    
+    <div class="modal" id="myModal2">
+        <div class="modal-dialog">
+            <div class="modal-content">
+
+            <!-- Modal Header -->
+            <div class="modal-header">
+                <h4 class="modal-title">FILL UP</h4>
+                <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+            </div>
+
+            <!-- Modal body -->
+            <div class="modal-body">         
+            <form id = "formulario">
+                <label for="T1">TITLE 1:</label><br>
+                <input type="text" id="T1" name="T1" placeholder="**********" required>
+                <br><br>
+
+                <label for="T2">TITLE 2:</label><br>
+                <input type="text" id="T2" name="T2" placeholder="**********" required>
+                <br><br>
+
+                <label for="S1">SUBTITLE 1:</label><br>
+                <input type="text" id="S1" name="S1" placeholder="**********" required>
+                <br><br>
+
+                <label for="DESC">DESCRIPTION:</label><br>
+                <input type="text" id="DESC" name="DESC" placeholder="**********" required>
+                <br><br>
+
+                <label for="PRECIO">$###.##:</label><br>
+                <input type="number" id="PRECIO" name="PRECIO"  placeholder="**********" min="0" max="9999999" required>
+                <br><br>
+            </form>
+            </div>
+
+
+            <!-- Modal footer -->
+            <div class="modal-footer">
+                <button type="button" class="btn btn-danger" data-bs-dismiss="modal" onclick = "update(document.getElementById('T1').value,
+                                                                                                    document.getElementById('T2').value,
+                                                                                                    document.getElementById('S1').value,
+                                                                                                    document.getElementById('DESC').value,
+                                                                                                    document.getElementById('PRECIO').value)">
+                    UPDATE</button>
+                <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
+            </div>
+
+            </div>
+        </div>
+    </div>
+
+</body>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+<script src="BCKEND.js"></script>
+</html>

@@ -1,0 +1,36 @@
+Figma con High Fidel: https://www.figma.com/design/sQZF81XeKmbg4w4IVV26kC/wireframe_imaginatio_tecs
+
+Juan Acosta, Sergio Mendez, Sofía Marín, Juan Zorro
+
+Screenshot del error al intentar subir el .rar: https://imgur.com/FEWl5Ep
+
+Actividad: Deben presentar un archivo de texto/video donde expliquen que tanto fue posible replicar en HTML/CSS el prototipo, nivel de
+complejidad?, problemas encontrados, como los solucionaron?
+
+
+¿Qué tanto fue posible replicar de Figma en código?
+
+Todos los esqueletos, la organización general de las páginas, las proporciones generales de las imágenes, textos y botones, así como del
+header, del footer y del body. 
+
+El tema de animaciones no se replicó debido a que aún desconocemos cómo hacerlas, lo mismo con interacciones de tipo carrusel o hoover
+de cartas (Esto en en la página de Imaginatios pasados). pero tratamos de que se asemejara mucho al prototipo en Figma.
+
+¿Nivel de complejidad?
+La teoría para realizar el esqueleto de las páginas ya se tenía, por ese motivo, la ejecución no era algo muy complicado de realizar.
+La complejidad que tuvimos se debió a que es de nuestras primeras interacciones con HTML y CSS, principalmente no saber cómo poner la
+idea en código, pero no fue complicado más allá de entender los estándares.
+
+
+¿Qué problemas encontraron?
+
+Aparte de las animaciones que no se pudieron realizar, encontramos amplios problemas a la hora de acomodar varios elementos, sobre todo
+asignarles tamaños que no se desorganizaran al cambiar el tamaño de la página; así como lograr la misma proporción y espaciado para las
+imágenes; y lograr un parecido general entre el prototipo en Figma y la página en código.
+
+
+¿Cómo se solucionaron?
+
+Principalmente resolvimos los problemas cambiando tanto contenedores separados (divs) en HTML, como el styles de la página en CSS. y
+también modificando atributos como margin, padding, position o align (de elementos o de contenido), probando con distintos valores,
+porcentajes y organizaciones, y analizando qué cambiaba.
