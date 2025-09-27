@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <link rel="stylesheet" href="styles.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Imaginatio - Inicio</title>
+    <script type="module" src="https://unpkg.com/@splinetool/viewer@1.10.48/build/spline-viewer.js"></script>
+</head>
+<body>
+    <header>
+        <div class="navbar">
+            <!-- Menu -->
+            <input type="checkbox" id="menu-toggle" hidden>
+                <label for="menu-toggle">
+                    <img src="images/menu.png" class="menu-icon" alt="Menú">
+                </label>
+
+                <!-- Menú lateral -->
+                <div id="sideMenu" class="side-menu">
+                    <a href="HOMEPAGE.html">HOME</a>
+                    <a href="ACTUAL.html">IMAGINATIO 202X</a>
+                    <a href="CALENDARIO.html">CALENDAR</a>
+                    <a href="QSOMOS.html">WHO WE ARE</a>
+                    <a href="PAST.html">PAST IMAGINATIOS</a>
+                    <a href="MASMUESTRAS.html">WORK SAMPLES</a>
+                    <a href="https://sites.google.com/unimilitar.edu.co/multimedia/ingenier%C3%ADa-en-multimedia?authuser=0" target="_blank">
+                    CONTACT US </a>
+                </div>
+                <!-- Contador real -->
+                <div class="countdown">
+                    <span class="real-timer" data-format="compact"></span>
+                    <small>days left</small>
+                </div>
+                <!-- Logo -->
+                <img src="images/logo.png" class="logo-icon" alt="Logo Imaginatio" onclick="window.location.href='HOMEPAGE.html'">                      
+        </div>
+    </header>
+
+    <div class="container">
+        <div class="main_page">
+            <div class="carousel_imaginatio">
+                <div class="slide"><img src="images/Carteles_Imaginatios/Imaginatio_carrusel_1.jpg" alt="Carrusel 1"></div>
+                <div class="slide"><img src="images/Carteles_Imaginatios/Imaginatio_carrusel_2.jpg" alt="Carrusel 2"></div>
+                <div class="slide"><img src="images/Carteles_Imaginatios/Imaginatio_carrusel_3.jpg" alt="Carrusel 3"></div>
+                <div class="slide"><img src="images/Carteles_Imaginatios/Imaginatio_carrusel_4.jpg" alt="Carrusel 4"></div>
+            </div>
+            <div> 
+
+                     <spline-viewer url="https://prod.spline.design/WisITZUeh21i8Hfo/scene.splinecode" style="margin-top: -15%;"></spline-viewer>
+            </div>
+            
+
+            <section class="bloque_imaginatio">
+                <div class="texto_boton">
+                    <h2>ABOUT THE IMAGINATIO</h2>
+                    <br>
+                    <p>
+                        The Imaginatio is an academic space for co-learning, where the students of the program
+                        Multimedia Engineering of the Universidad Militar Nueva Granada have the opportunity of taking part
+                        in different conferences, talks or workshops with the best professionals, ex-students and companies...
+                    </p>
+                    <br>
+                    <button onclick="window.location.href='QSOMOS.html'" class="boton_verde">KNOW MORE...</button>
+                </div>
+
+                <div class="imagenes_derecha">
+                    <img src="images/People/img_hmpg_1.jpg" class="img_grande" alt="">
+                    <img src="images/People/img_hmpg_2.jpg" class="img_pequeña" alt="">
+                </div>
+
+                <div class="imagenes_abajo">
+                    <img src="images/People/img_hmpg_3.jpg" alt="">
+                    <img src="images/People/img_hmpg_4.jpg" alt="">
+                    <img src="images/People/img_hmpg_5.jpg" alt="">
+                </div>
+            </section>
+
+            <div class="texto_muestras">
+                <h1>WORK SAMPLES</h1>
+            </div>
+
+            <div class="contenedor_muestras">
+                <div class="muestra_item">
+                    <img src="images/2D_Art/muestras_1.png" alt="Trabajo 1">
+                    <p>Work done by Julian
+                        Sierra for the exposition
+                        of this year, it's a
+                        2D ilustration...
+                    </p>
+                </div>
+                <div class="muestra_item">
+                    <img src="images/2D_Art/muestras_2.png" alt="Trabajo 2">
+                    <p>Work done by Juanito
+                        Golondrino for the
+                        exposition of
+                        this year, it's a
+                        2D ilustration... 
+                    </p>
+                </div>
+                <div class="muestra_item">
+                    <img src="images/2D_Art/muestras_3.png" alt="Trabajo 3">
+                    <p>Work done by Sandra
+                        Ortiz for the exposition
+                        of this year, it's a 
+                        2D ilustration...
+                    </p>
+                </div>
+            </div>
+
+            <a onclick="window.location.href='MASMUESTRAS.html'" class="Boton_verMas">SEE MORE...</a>
+
+            <div class="Bots_Menu">
+                <div id="Bots_Menu" onclick="window.location.href='ACTUAL.html'" class="Boton_Imaginatio202X">Imaginatio 202X</div>
+                <div id="Bots_Menu" onclick="window.location.href='CALENDARIO.html'" class="Boton_Calendario">Calendar</div>
+                <div id="Bots_Menu" onclick="window.location.href='QSOMOS.html'" class="Boton_QuienesSomos">Who we are</div>
+                <div id="Bots_Menu" onclick="window.location.href='PAST.html'" class="Boton_Anteriores">Past</div>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <div class="footer">
+            <a href="https://sites.google.com/unimilitar.edu.co/multimedia/ingenier%C3%ADa-en-multimedia?authuser=0" class="Contacto">Contactanos</a>
+            <img src="images/logo.png" class="logo-icon_footer" alt="Logo Imaginatio" onclick="window.location.href='HOMEPAGE.html'"> 
+            <div class="social-links">
+                <a href="https://www.facebook.com/IngMultimediaCampus/" target="_blank">
+                    <img src="images/fb.png" alt="Facebook">
+                </a>      
+                <a href="https://www.instagram.com/ing.enmultimedia/" target="_blank">
+                    <img src="images/ig.png" alt="Instagram">
+                </a>
+            </div>            
+        </div>
+    </footer>
+</body>
+<script src="countdown.js"></script>
+</html>
