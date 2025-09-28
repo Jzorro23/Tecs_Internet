@@ -8,33 +8,52 @@
 </head>
 
 <body>
-    <header>
-            <div class="navbar">
-                <!-- Menu -->
-                <input type="checkbox" id="menu-toggle" hidden>
-                <label for="menu-toggle">
-                    <img src="images/menu.png" class="menu-icon" alt="Menú">
-                </label>
+    <!-- Fondo de estrellas -->
+    <div id="stars"></div>
+    <div id="stars2"></div>
+    <div id="stars3"></div>
 
-                <!-- Menú lateral -->
-                <div id="sideMenu" class="side-menu">
+    <header>
+        <div class="navbar">
+            <div class="menu-wrapper">
+                <div class="menu-trigger" style=" margin-left: 30%; padding-top: 10px;">
+                    <li class="menu-button" style="--i:#823bbd; --j:#280a41; z-index: 1000;">
+                    <span class="icon">
+                        <img src="images/menu.png" alt="Menú">
+                    </span>
+                    <span class="title">Menu</span>
+                    </li>
+                </div>
+
+                <nav id="sideMenu" class="side-menu">
                     <a href="HOMEPAGE.html">HOME</a>
                     <a href="ACTUAL.html">IMAGINATIO 202X</a>
                     <a href="CALENDARIO.html">CALENDAR</a>
                     <a href="QSOMOS.html">WHO WE ARE</a>
                     <a href="PAST.html">PAST IMAGINATIOS</a>
                     <a href="MASMUESTRAS.html">WORK SAMPLES</a>
-                    <a href="https://sites.google.com/unimilitar.edu.co/multimedia/ingenier%C3%ADa-en-multimedia?authuser=0" target="_blank">
-                    CONTACT US </a>
-                </div>
-                <!-- Contador real -->
-                <div class="countdown">
-                    <span class="real-timer" data-format="compact"></span>
-                    <small>days left</small>
-                </div>
-                <!-- Logo -->
-                <img src="images/logo.png" class="logo-icon" alt="Logo Imaginatio" onclick="window.location.href='HOMEPAGE.html'">                        
+                    <a href="https://sites.google.com/unimilitar.edu.co/multimedia/ingenier%C3%ADa-en-multimedia?authuser=0" target="_blank">CONTACT US</a>
+                </nav>
             </div>
+
+
+            <!-- Contador real -->
+            <div class="countdown">
+                <span class="real-timer" data-format="compact"></span>
+                <small>days left</small>
+            </div>
+
+            <ul class="icons" style=" margin-left: auto; margin-right: 1%; padding-top: 10px;">                    
+                <li style="--i:#56CCF2;--j:#2F80ED">
+                    <a href="HOMEPAGE.html">
+                        <span class="icon">
+                            <img src="images/home.png" alt="Email">
+                        </span>
+                        <span class="title">HOME</span>
+                    </a>
+                </li>                    
+            </ul>              
+        </div>
     </header>
     
     <div class="cont_deg">
@@ -96,20 +115,50 @@
             </div>
         </div>
     </div>
-    <footer>
-        <div class="footer">
-            <a href="https://sites.google.com/unimilitar.edu.co/multimedia/ingenier%C3%ADa-en-multimedia?authuser=0" class="Contacto">Contactanos</a>
-            <img src="images/logo.png" class="logo-icon_footer" alt="Logo Imaginatio" onclick="window.location.href='HOMEPAGE.html'"> 
-            <div class="social-links">
-                <a href="https://www.facebook.com/IngMultimediaCampus/" target="_blank">
-                    <img src="images/fb.png" alt="Facebook">
-                </a>      
-                <a href="https://www.instagram.com/ing.enmultimedia/" target="_blank">
-                    <img src="images/ig.png" alt="Instagram">
-                </a>
-            </div>            
+    <div class="footer">
+            <ul class="icons">
+                <!-- Contacto -->
+                <li style="--i:#56CCF2;--j:#2F80ED">
+                    <a href="https://sites.google.com/unimilitar.edu.co/multimedia/ingenier%C3%ADa-en-multimedia?authuser=0" target="_blank">
+                    <span class="icon">
+                        <img src="images/email.png" alt="Email">
+                    </span>
+                    <span class="title">CONTACT US</span>
+                    </a>
+                </li>
+
+                <!-- Logo central -->
+                <li style="--i:#ffa9c6;--j:#f434e2">
+                    <a href="HOMEPAGE.html">
+                    <span class="icon">
+                        <img src="images/logo.png" class="logo-icon_footer" alt="Logo Imaginatio">
+                    </span>
+                    <span class="title">IMAGINATIO</span>
+                    </a>
+                </li>
+
+                <!-- Facebook -->
+                <li style="--i:#3b5998;--j:#00aced">
+                    <a href="https://www.facebook.com/IngMultimediaCampus/" target="_blank">
+                    <span class="icon">
+                        <img src="images/fb.png" alt="Facebook">
+                    </span>
+                    <span class="title">FACEBOOK</span>
+                    </a>
+                </li>
+
+                <!-- Instagram -->
+                <li style="--i:#e1306c;--j:#f77737">
+                    <a href="https://www.instagram.com/ing.enmultimedia/" target="_blank">
+                    <span class="icon">
+                        <img src="images/ig.png" alt="Instagram">
+                    </span>
+                    <span class="title">INSTAGRAM</span>
+                    </a>
+                </li>
+            </ul>
         </div>
     </footer>
 </body>
-<script src="countdown.js"></script>
+<script src="gen.js"></script>
 </html>
