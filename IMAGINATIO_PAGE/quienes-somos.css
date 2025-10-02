@@ -1,0 +1,127 @@
+/* Encapsulado: todo inicia con .quienes-somos-page */
+.quienes-somos-page {
+  font-family: system-ui, Arial, sans-serif;
+  color: #111;
+  background: linear-gradient(#5a2a80, #8b4fb8);
+  scroll-behavior: smooth;
+  scroll-snap-type: y mandatory;
+}
+
+/* HEADER & FOOTER */
+.quienes-somos-page .qs-header {
+  padding: 16px 24px;
+  background: rgba(0,0,0,0.15);
+}
+.quienes-somos-page .qs-navbar {
+  display:flex; gap:12px; align-items:center;
+}
+.quienes-somos-page .qs-footer {
+  padding: 24px;
+  background: rgba(0,0,0,0.12);
+  text-align:center;
+  margin-top: 20px;
+}
+
+/* TITLE */
+.quienes-somos-page .qs-title {
+  padding: 12px 3%;
+}
+
+/* BANNER */
+.quienes-somos-page .qs-banner {
+  padding: 28px 3%;
+  max-width: 1200px;
+  margin: 0 auto 12px;
+}
+.quienes-somos-page .qs-banner-title {
+  font-size: 1.6rem;
+  margin-bottom: 8px;
+}
+.quienes-somos-page .qs-banner-text {
+  font-size: 1rem;
+  opacity: .9;
+}
+
+/* SECTIONS */
+.quienes-somos-page .qs-section {
+  height: 100vh;
+  scroll-snap-align: start;
+  scroll-snap-stop: always;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 4vh 3%;
+}
+.quienes-somos-page .qs-content {
+  width: min(1100px, 96%);
+  max-width: 1100px;
+  background: rgba(255,255,255,0.06);
+  border-radius: 12px;
+  padding: 28px;
+  text-align: center;
+  transform: scale(.92);
+  filter: blur(3.2rem) contrast(1.1);
+  opacity: 0;
+  transition: transform 700ms cubic-bezier(.2,.9,.2,1),
+              filter 700ms cubic-bezier(.2,.9,.2,1),
+              opacity 600ms ease;
+  will-change: transform, filter, opacity;
+}
+.quienes-somos-page .qs-content.in-view {
+  transform: scale(1);
+  filter: blur(0) contrast(1);
+  opacity: 1;
+}
+.quienes-somos-page .qs-content.leaving {
+  transform: scale(1.18);
+  filter: blur(2.6rem) contrast(1.2);
+  opacity: 0;
+}
+
+/* Cards */
+.quienes-somos-page .qs-cards {
+  display:flex; gap:6%; justify-content:center; align-items:end; flex-wrap:wrap; margin-top:16px;
+}
+.quienes-somos-page .qs-card {
+  background-color: rgba(126,76,165,0.85);
+  text-align:center;
+  width:200px;
+  border-radius:8px;
+  padding:8px;
+}
+.quienes-somos-page .qs-card img {
+  width:100%; height:auto; border-radius:6px;
+  box-shadow: 0 6px 18px rgba(0,0,0,.25);
+  transition: transform .25s ease;
+}
+.quienes-somos-page .qs-card img:hover { transform: scale(1.05); }
+
+/* Botón */
+.quienes-somos-page .qs-btn {
+  margin: 20px auto 0;
+  width: 260px;
+  padding:12px 18px;
+  border-radius:8px;
+  background:#7E4CA5;
+  color:#fff;
+  cursor:pointer;
+  border:2px solid rgba(255,255,255,.8);
+}
+
+/* Vision/Mission */
+.quienes-somos-page .qs-vision-mission {
+  display:flex; gap:24px; justify-content:center; flex-wrap:wrap;
+}
+.quienes-somos-page .qs-card-text {
+  background:rgba(255,255,255,.06);
+  padding:18px;
+  border-radius:10px;
+  min-width:220px;
+}
+
+/* Responsive */
+@media (max-width:720px){
+  .quienes-somos-page .qs-cards { gap: 4%; }
+  .quienes-somos-page .qs-card { width:140px; }
+  .quienes-somos-page .qs-banner-title { font-size:1.2rem; }
+}

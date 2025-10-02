@@ -192,4 +192,3 @@ window.addEventListener('resize', inicializarEstrellas);
 window.addEventListener('DOMContentLoaded', inicializarEstrellas);
 
 
-
