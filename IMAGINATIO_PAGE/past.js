@@ -51,22 +51,22 @@ const imaginatios = [
     {
         year: 2018,
         title: "Imaginatio X",
-        description: 'Imaginatio '
+        description: 'Imaginatio number 10 was the last instance of bi-yearly Imagination, but it was still bringing some interesting topics into the mix.<br>With ideas like monetization of work and networking. Also new videogame tournaments like LoL and Fortnite.'
     },
     {
         year: 2019,
         title: "Imaginatio XI",
-        description: 'Imaginatio '
+        description: "Imaginatio XI goes back to some basic topics in our career, such as Design and Photograpy.<br>With not only a competition of photography that gives us a treat to the eyes but also a Certification of High Quality Education by the Governemnt,"
     },
     {
         year: 2020,
         title: "Imaginatio XII",
-        description: 'Imaginatio '
+        description: "The 11th Imaginatio was given a special title, The Day of Multimedia Engineering.<br>A wide variety of talks from all the aspects that make this career unique are brought up, from coding to art, from practical to theorical."
     },
     {
         year: 2022,
         title: "Imaginatio XIV",
-        description: 'Imaginatio '
+        description: "In the Imaginatio of 2022, the 14th, we go into an upcoming topic, Metaverses and diferent forms of virtual/augmented reality.<br>Drones, NFt and multiple works done by students were presented, and all was closed up by a concert of The Black Rope."
     }
 ]
 

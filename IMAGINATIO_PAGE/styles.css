@@ -991,15 +991,11 @@ section {
   object-position: center;
 }
 
-#content :nth-child(1){
+#content div{
   width: 100%;
   display: grid;
   justify-content: center;
   border-radius: 1cap;
-}
-
-#content :nth-child(2){
-  display: grid;
   text-align: center;
 }
 
@@ -1015,7 +1011,7 @@ section {
 }
 
 #content img{
-  width: 50%;
+  width: 100%;
   aspect-ratio: 1/1;
   object-fit: cover;
 }
