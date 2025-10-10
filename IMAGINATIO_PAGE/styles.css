@@ -961,6 +961,8 @@ section {
 }
 
 .gallery img {
+  border-radius: 2cap;
+  box-shadow: 5px 5px 1px black;
   height: 550px;
   width: 150px;
   flex: 1;

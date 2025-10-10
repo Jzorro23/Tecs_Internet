@@ -36,17 +36,17 @@ const imaginatios = [
     {
         year: 2016,
         title: "Imaginatio VI",
-        description: 'Imaginatio '
+        description: "In the second Imaginatio of 2016 it's a special one, it has a colaboration between the UMNG and the Buenaventura Univertity.<br>With talks from exstudents and other profesionals from the industry."
     },
     {
         year: 2017,
         title: "Imaginatio VII",
-        description: 'Imaginatio '
+        description: "Imaginatio number VII, the first one of 2017.<br>It had a main focus on 3D modeling with a workshop of making character concepts and making them 3D. The results are visible in the Google Sites section of this Imaginatio."
     },
     {
         year: 2018,
         title: "Imaginatio IX",
-        description: 'Imaginatio '
+        description: 'The Ninth Imaginatio, it brings up a more ecological topic.<br>With talks about how this engineering career can help in aspects like food production.<br>Also the first football tournament of the event.'
     },
     {
         year: 2018,
