@@ -1,0 +1,96 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<div class="cont_deg">
+    <div class="titulo">
+        <span>X</span><span>V</span><span>I</span>
+        <br><br>
+        <span>E</span><span>D</span><span>I</span><span>T</span><span>I</span><span>O</span><span>N</span>
+    </div>
+
+    <div class="texto_muestras">
+        <h1 class="neon-subtitulo">
+            <span>I</span><span>N</span><span>F</span><span>O</span><span>R</span><span>M</span><span>A</span><span>T</span><span>I</span><span>O</span><span>N</span>
+        </h1>
+    </div>
+</div>
+<!-- SPLIT LAYOUT: pegar justo después de <div class="titulo"> -->
+<section class="split-wrapper" aria-label="Entrada dividida">
+    <div class="split-container">
+
+        <div class="split left" data-side="left" tabindex="0" aria-hidden="false">
+            <div class="bg-layer" style="background-image: url('/images/People/1.png')"></div>
+            <button class="action-btn button-left" data-target="left-panel" aria-controls="left-panel" aria-expanded="false">ACTIVITIES</button>
+        </div>
+
+        <div class="split right" data-side="right" tabindex="0" aria-hidden="false">
+            <div class="bg-layer" style="background-image: url('/images/People/4.png')"></div>
+            <button class="action-btn button-right" data-target="right-panel" aria-controls="right-panel" aria-expanded="false">EXPOSITIONS</button>
+        </div>
+
+        <!-- Panel izquierdo (se desliza desde la izquierda) -->
+        <aside id="left-panel" class="panel left-panel" role="region" aria-hidden="true">
+            <button class="close-btn" aria-label="Cerrar sección">×</button>
+            <div class="panel-inner">
+                <div class="contenedor_ac_act">
+                    <div class="carousel_general">
+                        <div class="carouselgen">
+                            <div class="slide">
+                                <img src="~/images/People/1.png" alt="actividad 1">
+                                <p>Imaginatio Activities</p>
+                            </div>
+                            <div class="slide">
+                                <img src="~/images/People/2.png" alt="actividad 2">
+                                <p>Samurai Rock Band Showcase</p>
+                            </div>
+                            <div class="slide">
+                                <img src="~/images/People/3.png" alt="actividad 3">
+                                <p>Imaginatio VJING</p>
+                            </div>
+                            <div class="slide">
+                                <img src="~/images/People/5.png" alt="actividad 5">
+                                <p>Imaginatio Expositions</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </aside>
+
+        <!-- Panel derecho (se desliza desde la derecha) -->
+        <aside id="right-panel" class="panel right-panel" role="region" aria-hidden="true">
+            <button class="close-btn" aria-label="Cerrar sección">×</button>
+            <div class="panel-inner">
+                <div class="contenedor_ac_act">
+                    <div class="carousel_general">
+                        <div class="carouselgen">
+                            <div class="slide">
+                                <img src="~/images/People/4.png" alt="actividad 4">
+                                <p>Imaginatio Information Panels</p>
+                            </div>
+                            <div class="slide">
+                                <img src="~/images/People/5.png" alt="actividad 5">
+                                <p>Imaginatio Expositions</p>
+                            </div>
+                            <div class="slide">
+                                <img src="~/images/People/6.png" alt="actividad 6">
+                                <p>Imaginatio Conference</p>
+                            </div>
+                            <div class="slide">
+                                <img src="~/images/People/7.png" alt="actividad 7">
+                                <p>Imaginatio Guests</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </aside>
+
+    </div>
+</section>
+
+<script src="~/js/actual.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
