@@ -8,23 +8,23 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Jzorro\\.nuget\\packages\\": {},
+    "C:\\Users\\Sofyv\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jzorro\\Desktop\\Tecs_Inter\\Tecs_Internet\\MVC\\MVC.csproj",
+      "projectUniqueName": "C:\\Users\\Sofyv\\OneDrive\\Escritorio\\gitTecs\\Tecs_Internet\\MVC\\MVC.csproj",
       "projectName": "MVC",
-      "projectPath": "C:\\Users\\Jzorro\\Desktop\\Tecs_Inter\\Tecs_Internet\\MVC\\MVC.csproj",
-      "packagesPath": "C:\\Users\\Jzorro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jzorro\\Desktop\\Tecs_Inter\\Tecs_Internet\\MVC\\obj\\",
+      "projectPath": "C:\\Users\\Sofyv\\OneDrive\\Escritorio\\gitTecs\\Tecs_Internet\\MVC\\MVC.csproj",
+      "packagesPath": "C:\\Users\\Sofyv\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Sofyv\\OneDrive\\Escritorio\\gitTecs\\Tecs_Internet\\MVC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Jzorro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Sofyv\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

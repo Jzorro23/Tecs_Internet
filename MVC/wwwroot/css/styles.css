@@ -8,7 +8,7 @@ h2{ font-size: 100%; }
 
 @font-face {
   font-family: Itim;
-  src: url(../fonts/Itim-Regular.otf);
+  src: url(Fonts/Itim-Regular.otf);
 }
 
 /* Fondo degradado claro → morado */
@@ -438,8 +438,8 @@ body {
 .imagenes_derecha .cardab .face.face2,
 .imagenes_abajo .cardab .face.face2,
 .countdown .cardab .face.face2  {
-  background: linear-gradient(45deg, #b85db0, #b67ee0);
-  transition: height 0.5s ease, border-radius 0.5s ease;
+  background:  #b67ee0;
+  transition: height 1.5s ease, border-radius 0.5s ease;
   border-radius: 15px;
   color: #fff;
   display: flex;
@@ -614,41 +614,47 @@ body {
   box-shadow: 5px 5px 12px rgba(0, 0, 0, 0.2); /* sombra más sutil */
 }
 
-.btn-glow_Menu {
-  position: relative;
-  width: 90%;
-  height: 30vh;
-  font-size: 2rem;
-  text-align: center;
-  font-weight: bold;
-  color: #b67ee0;
-  text-transform: uppercase;
-  letter-spacing: 3px;
-  border-radius: 10px;
-  overflow: hidden;
-  transition: 0.5s;
-  cursor: pointer;
-  background: #fff;
-  box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.3);
-}
-
 /* ==== EFECTO HOVER (glow reducido) ==== */
-.btn-glow_Menu:hover {
-  background: #b67ee0;
-  transform: scale(1.05);
-  color: #050801;
+.btn-glow_Menu {
+ 
   box-shadow: 0 0 3px #b67ee0,
               0 0 12px #b67ee0,
               0 0 25px #b67ee0,
               0 0 30px #b67ee0; /* más pequeño que antes */
-  -webkit-box-reflect: below 2px
-    linear-gradient(transparent, rgba(0,0,0,0.45) 18%);
+  
+   
+  background: #b67ee0;
+  position: relative;
+  width: 70%;
+  height: 30vh;
+  font-size: 2rem;
+  text-align: center;
+  font-weight: bold;
+  color: #5a2a80;
+  text-transform: uppercase;
+  border-radius: 10px;
+  overflow: hidden;
+  transition: 0.5s;
+  cursor: pointer;
+  
+ 
 }
+
+.btn-glow_Menu:Hover {
+   background: #b67ee0;
+  transform: scale(1.05);
+  color: white;
+  position: relative;
+  background: #b67ee0;
+ 
+}
+
+
 
 /* ==== EFECTOS ANIMADOS DEL BORDE ==== */
 .btn-glow_Menu span {
   position: absolute;
-  display: block;
+  display: white;
 }
 
 /* Línea superior */
@@ -711,12 +717,17 @@ body {
 }
 
 /*VARIEDADES TEXTOS*/
+.cont_titulo {
+  height: 80vh; /* ocupa toda la pantalla */
+  margin-top: 5%;
+  
+}
 
 .titulo {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh; /* ocupa toda la pantalla */
+  height: 45vh; /* ocupa toda la pantalla */
   gap: 0.2em;
   font-family: 'Montserrat', sans-serif;
   font-weight: 900;
@@ -726,15 +737,17 @@ body {
 
 .titulo span {
   position: relative;
-  color: transparent;
-  -webkit-text-stroke: 2px #4c98a5; /* contorno base */
+  color:#5a2a80; /* se rellena */
+  
+  -webkit-text-stroke: 2px #5a2a80; /* contorno base */
   transition: all 0.4s ease;
 }
 
 .titulo span:hover {
-  color: #56ccf2; /* se rellena */
-  -webkit-text-stroke: 2px transparent; /* quita contorno */
-  transform: scale(1.3);
+  color: transparent; /* se rellena */
+  -webkit-text-stroke: 2px white; /* quita contorno */
+  transform: scale(1.2);
+
   text-shadow:
     0 0 10px #b72fed,
     0 0 20px #782fed,
@@ -792,13 +805,12 @@ body {
 
 
 .neon-subtitulo {
-  font-size: 5rem;
+  font-size: 3rem;
   font-weight: bold;
   display: inline-block;
-  text-transform: uppercase;
   --color1: #b85db0;
   --color2: #b67ee0;
-  --delay-step: 0.08s;
+  --delay-step: 1s;
 }
 
 .neon-subtitulo span {
@@ -845,7 +857,7 @@ body {
   position: relative;
   width: 70px;
   height: 70px;
-  background: white;
+  background:  #7E39B8;
   border-radius: 60px;
   cursor: pointer;
   display: flex;
@@ -864,7 +876,7 @@ body {
   content: "";
   position: absolute;
   border-radius: 60px;
-  background: linear-gradient(45deg, var(--i), var(--j));
+  /*background: linear-gradient( #7E39B8,#7E39B8, var(--j));*/
   transition: 0.5s;
   opacity: 0;
 }
@@ -876,6 +888,7 @@ body {
   height: 100%;
   filter: blur(15px);
   z-index: -1;
+  
 }
 
 /* Ícono interno */
@@ -969,7 +982,7 @@ section {
   object-fit: cover;
   object-position: center;
   overflow: hidden;
-  transition: 0.2s all cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  transition: 0.7s all cubic-bezier(0.175, 0.885, 0.32, 1.275);
   cursor: pointer;
 }
 
@@ -1010,12 +1023,12 @@ section {
   padding: 5%;
 }
 
-#content img {
-    width: 100%;
-    aspect-ratio: 1/1;
-    object-fit: cover;
-    border-top-left-radius: inherit;
-    border-bottom-left-radius: inherit;
+#content img{
+  width: 100%;
+  aspect-ratio: 1/1;
+  object-fit: cover;
+  border-top-left-radius: inherit;
+  border-bottom-left-radius: inherit;
 }
 
 /*QUIENES SOMOS*/
@@ -1104,7 +1117,7 @@ section {
 }
 
 .Qs_Banner{
-  background-image: url(/images/People/Bg_Quienes.png);
+  background-image: url(images/People/Bg_Quienes.png);
   background-repeat: no-repeat;
   background-size:cover;
   border-radius: 10px;
@@ -1461,12 +1474,14 @@ section {
 
 /* Mostrar info al hacer hover */
 .activity-content:hover .image-wrapper {
-  transform: scale(2);
+  transform: scale(1.2);
+  filter: blur(5px);
 }
 
 .activity-content:hover .header-wrapper .title {
-  opacity: 0; /* título desaparece */
+  /* título desaparece */
   transform: translateY(-20px);
+  transition: all 0.1s ease-in-out;
 }
 
 .activity-content:hover .header-wrapper .info {
@@ -1486,10 +1501,12 @@ section {
     0 0 30px #b67ee0; /* más pequeño que antes */
   margin: 0;
   font-family: Arial, sans-serif;
+  text-align: center;
+  font-size: 2em;
 }
 
 .header-wrapper h3.title {
-  font-size: 2em;
+  font-size: 3em;
 }
 
 .header-wrapper .info p {
@@ -1666,8 +1683,8 @@ background: linear-gradient(-135deg, #4B1C73, #a855f7);
 .card5 .face1 {
   position: relative;
   width: 100%;
-  height: 220px;
-  background-color: #7E4CA5;
+  height: 250px;
+  background-color: #b67ee0;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -1681,8 +1698,8 @@ background: linear-gradient(-135deg, #4B1C73, #a855f7);
 .card5 .face2 {
   position: relative;
   width: 100%;
-  height: 220px;
-  background-color: lightblue;
+  height: 250px;
+  background-color:#b67ee0;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -1692,11 +1709,11 @@ background: linear-gradient(-135deg, #4B1C73, #a855f7);
   box-shadow: 0 10px 25px rgba(0,0,0,0.8);
   border-radius: 5px;
   transition: 0.5s;
-  transform: translateY(-100px);
+  transform: translateY(-150px);
 }
 
 .card5:hover .face1 {
-  background-color: #ff0057;
+  background-color:  #a855f7;
   transform: translateY(0);
 }
 
@@ -1743,9 +1760,10 @@ background: linear-gradient(-135deg, #4B1C73, #a855f7);
   color: white;
   padding: 6px 10px;
   border: 1px solid #777;
-  background-color: darkblue;
+  background-color: #5a2a80;
   border-radius: 4px;
   transition: 0.3s;
+
 }
 
 .card5 a:hover {
