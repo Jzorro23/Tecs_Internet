@@ -1,0 +1,161 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="container">
+
+    <div class="main_page">
+        <div class="carousel_imaginatio">
+            <div class="carouselgen">
+                <div class="slide"><img src="~/images/Carteles_Imaginatios/Imaginatio_carrusel_1.jpg" alt="Carrusel 1"></div>
+                <div class="slide"><img src="~/images/Carteles_Imaginatios/Imaginatio_carrusel_2.jpg" alt="Carrusel 2"></div>
+                <div class="slide"><img src="~/images/Carteles_Imaginatios/Imaginatio_carrusel_3.jpg" alt="Carrusel 3"></div>
+                <div class="slide"><img src="~/images/Carteles_Imaginatios/Imaginatio_carrusel_4.jpg" alt="Carrusel 4"></div>
+            </div>
+
+            <!-- Controles -->
+            <button class="prev" aria-label="Prev">&#10094;</button>
+            <button class="next" aria-label="Next">&#10095;</button>
+        </div>
+
+
+        <section class="bloque_imaginatio">
+            <div class="texto_boton" data-animate>
+                <h2 class="typewriter">ABOUT THE IMAGINATIO</h2>
+                <br>
+                <p class="typewriter-multiline">
+                    <span>The Imaginatio is an academic space for co-learning,</span>
+                    <span>where the students of the program Multimedia Engineering</span>
+                    <span>of the Universidad Militar Nueva Granada have the opportunity</span>
+                    <span>of taking part in different conferences, talks or workshops...</span>
+                </p>
+                <br>
+
+                <div class="Small_Bots left">
+                    <button onclick="window.location.href='@Url.Action("QSomos", "Home")'" class="btn-glow_Menu small">
+                        <span></span><span></span><span></span><span></span>
+                        KNOW MORE...
+                    </button>
+                </div>
+            </div>
+
+
+            <div class="imagenes_derecha" data-animate style="width: 100%;">
+                <div class="cardab">
+                    <div class="face face1">
+                        <div class="content">
+                            <img src="~/images/People/img_hmpg_1.jpg" alt="Persona 1">
+                        </div>
+                    </div>
+                    <div class="face face2">
+                        <h2>00</h2>
+                        <p>Students in the Imaginatio</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="imagenes_abajo" data-animate>
+                <div class="cardab">
+                    <div class="face face1">
+                        <div class="content">
+                            <img src="~/images/People/img_hmpg_3.jpg" alt="Persona 1">
+                        </div>
+                    </div>
+                    <div class="face face2">
+                        <h2>01</h2>
+                        <p>Workshop by Professor Bahamon</p>
+                    </div>
+                </div>
+
+                <div class="cardab">
+                    <div class="face face1">
+                        <div class="content">
+                            <img src="~/images/People/img_hmpg_4.jpg" alt="Persona 2">
+                        </div>
+                    </div>
+                    <div class="face face2">
+                        <h2>02</h2>
+                        <p>Workshop by Professor Sonya</p>
+                    </div>
+                </div>
+
+                <div class="cardab">
+                    <div class="face face1">
+                        <div class="content">
+                            <img src="~/images/People/img_hmpg_5.jpg" alt="Persona 3">
+                        </div>
+                    </div>
+                    <div class="face face2">
+                        <h2>03</h2>
+                        <p>Workshop by Professor Diego</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <div class="texto_muestras">
+            <h1 class="neon-subtitulo">
+                <span>W</span><span>O</span><span>R</span><span>K</span>
+                <span>&nbsp;</span>
+                <span>S</span><span>A</span><span>M</span><span>P</span><span>L</span><span>E</span><span>S</span>
+            </h1>
+        </div>
+
+
+        <div class="contenedor_muestras" data-animate>
+            <div class="clip clip1">
+                <img src="~/images/2D_Art/EmbeddedImage.gif" alt="Trabajo 1">
+                <p class="neon-subtitulo">Work done by Julian Sierra for the exposition of this year...</p>
+            </div>
+            <div class="clip clip2">
+                <img src="~/images/2D_Art/Metaverso_Amarillo - Natalia Sofia Porras Pineda.png" alt="Trabajo 2">
+                <p class="neon-subtitulo">Work done by Juanito Golondrino for the exposition of this year...</p>
+            </div>
+            <div class="clip clip3">
+                <img src="~/images/2D_Art/El-Metaverso_Juan_Gutierrez - Juan José Gutiérrez Salcedo.gif" alt="Trabajo 3">
+                <p class="neon-subtitulo">Work done by Sandra Ortiz for the exposition of this year...</p>
+            </div>
+        </div>
+
+
+        <div class="Small_Bots center">
+            <button onclick="window.location.href='@Url.Action("MasMuestras", "Home")'" class="btn-glow_Menu small">
+                <span></span><span></span><span></span><span></span>
+                SEE MORE...
+            </button>
+        </div>
+
+        <div class="Bots_Menu">
+            <button class="btn-glow_Menu" onclick="window.location.href='@Url.Action("Actual", "Home")'">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                Imaginatio 202X
+            </button>
+            <button class="btn-glow_Menu" onclick="window.location.href='@Url.Action("Calendario", "Home")'">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                Calendar
+            </button>
+            <button class="btn-glow_Menu" onclick="window.location.href='@Url.Action("QSomos", "Home")'">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                Who we are
+            </button>
+            <button class="btn-glow_Menu" onclick="window.location.href='@Url.Action("Past", "Home")'">
+                <span></span>
+                <span></span>
+                <span></span>
+                <span></span>
+                Past
+            </button>
+        </div>
+    </div>
+</div>
+
+<script src="~/js/homepage.js"></script>

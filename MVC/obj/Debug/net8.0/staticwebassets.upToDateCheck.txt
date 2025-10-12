@@ -1,0 +1,132 @@
+wwwroot\css\site.css
+wwwroot\css\styles.css
+wwwroot\favicon.ico
+wwwroot\fonts\Itim-Regular.otf
+wwwroot\images\2D_Art\El-Metaverso_Juan_Gutierrez - Juan José Gutiérrez Salcedo.gif
+wwwroot\images\2D_Art\EmbeddedImage.gif
+wwwroot\images\2D_Art\Metaverso_Amarillo - Natalia Sofia Porras Pineda.png
+wwwroot\images\2D_Art\muestras_1.png
+wwwroot\images\2D_Art\muestras_2.png
+wwwroot\images\2D_Art\muestras_3.png
+wwwroot\images\2D_Art\Screenshot 2025-08-24 165333.png
+wwwroot\images\2D_Art\Screenshot 2025-08-24 165704.png
+wwwroot\images\3D_Art\Ana Flores.jpg
+wwwroot\images\3D_Art\Cesar Acosta.jpg
+wwwroot\images\3D_Art\Cristian Otalvaro.jpg
+wwwroot\images\3D_Art\Daniela Ramos.jpg
+wwwroot\images\3D_Art\Erika.jpg
+wwwroot\images\3D_Art\Farias.gif
+wwwroot\images\3D_Art\Jeisson Sanchez.jpg
+wwwroot\images\3D_Art\Juliana Vargas.jpg
+wwwroot\images\3D_Art\Karen Galvis.jpg
+wwwroot\images\3D_Art\Laura Rian¦âo.jpg
+wwwroot\images\3D_Art\Laura Triana.jpg
+wwwroot\images\3D_Art\Nicolas.jpg
+wwwroot\images\3D_Art\Paula Rubio.jpg
+wwwroot\images\Carteles_Imaginatios\Conversatorio.jpg
+wwwroot\images\Carteles_Imaginatios\I.png
+wwwroot\images\Carteles_Imaginatios\II.png
+wwwroot\images\Carteles_Imaginatios\III.png
+wwwroot\images\Carteles_Imaginatios\Imaginatio_carrusel_1.jpg
+wwwroot\images\Carteles_Imaginatios\Imaginatio_carrusel_2.jpg
+wwwroot\images\Carteles_Imaginatios\Imaginatio_carrusel_3.jpg
+wwwroot\images\Carteles_Imaginatios\Imaginatio_carrusel_4.jpg
+wwwroot\images\Carteles_Imaginatios\IV.png
+wwwroot\images\Carteles_Imaginatios\IX.jpg
+wwwroot\images\Carteles_Imaginatios\Unity.jpg
+wwwroot\images\Carteles_Imaginatios\V.png
+wwwroot\images\Carteles_Imaginatios\VI.png
+wwwroot\images\Carteles_Imaginatios\VII.png
+wwwroot\images\Carteles_Imaginatios\X.jpg
+wwwroot\images\Carteles_Imaginatios\XI.jpg
+wwwroot\images\Carteles_Imaginatios\XII.jpg
+wwwroot\images\Carteles_Imaginatios\XIV.gif
+wwwroot\images\email.png
+wwwroot\images\fb.png
+wwwroot\images\home.png
+wwwroot\images\ig.png
+wwwroot\images\Juegos\Screenshot 2025-08-24 172631.png
+wwwroot\images\Juegos\Screenshot 2025-08-24 173323.png
+wwwroot\images\logo.png
+wwwroot\images\menu.png
+wwwroot\images\People\1.png
+wwwroot\images\People\2.png
+wwwroot\images\People\3.png
+wwwroot\images\People\4.png
+wwwroot\images\People\5.png
+wwwroot\images\People\6.png
+wwwroot\images\People\7.png
+wwwroot\images\People\Bg_Quienes.png
+wwwroot\images\People\img_hmpg_1.jpg
+wwwroot\images\People\img_hmpg_2.png
+wwwroot\images\People\img_hmpg_3.jpg
+wwwroot\images\People\img_hmpg_4.jpg
+wwwroot\images\People\img_hmpg_5.jpg
+wwwroot\images\People\Screenshot 2025-08-24 143344.png
+wwwroot\images\People\Screenshot 2025-08-24 174842.png
+wwwroot\images\People\Screenshot 2025-08-24 212121.png
+wwwroot\images\tw.png
+wwwroot\js\actual.js
+wwwroot\js\countdown.js
+wwwroot\js\gen.js
+wwwroot\js\homepage.js
+wwwroot\js\mmuestras.js
+wwwroot\js\past.js
+wwwroot\js\site.js
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+wwwroot\lib\bootstrap\LICENSE
+wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\lib\jquery-validation\dist\additional-methods.js
+wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+wwwroot\lib\jquery-validation\LICENSE.md
+wwwroot\lib\jquery\dist\jquery.js
+wwwroot\lib\jquery\dist\jquery.min.js
+wwwroot\lib\jquery\dist\jquery.min.map
+wwwroot\lib\jquery\LICENSE.txt
