@@ -1,5 +1,4 @@
 wwwroot\css\site.css
-wwwroot\css\styles.css
 wwwroot\favicon.ico
 wwwroot\fonts\Itim-Regular.otf
 wwwroot\images\2D_Art\El-Metaverso_Juan_Gutierrez - Juan José Gutiérrez Salcedo.gif
@@ -130,3 +129,4 @@ wwwroot\lib\jquery\dist\jquery.js
 wwwroot\lib\jquery\dist\jquery.min.js
 wwwroot\lib\jquery\dist\jquery.min.map
 wwwroot\lib\jquery\LICENSE.txt
+wwwroot\css\styles.css

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Jzorro\\Desktop\\Tecs_Inter\\Tecs_Internet\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{49A22FD4-FC39-D5A1-2992-E6C456843950}|MVC\\MVC.csproj|c:\\users\\jzorro\\desktop\\tecs_inter\\tecs_internet\\mvc\\views\\home\\actual.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49A22FD4-FC39-D5A1-2992-E6C456843950}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\home\\actual.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{49A22FD4-FC39-D5A1-2992-E6C456843950}|MVC\\MVC.csproj|c:\\users\\jzorro\\desktop\\tecs_inter\\tecs_internet\\mvc\\views\\home\\masmuestras.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{49A22FD4-FC39-D5A1-2992-E6C456843950}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\home\\masmuestras.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Actual.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jzorro\\Desktop\\Tecs_Inter\\Tecs_Internet\\MVC\\Views\\Home\\Actual.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Home\\Actual.cshtml",
+              "ToolTip": "C:\\Users\\Jzorro\\Desktop\\Tecs_Inter\\Tecs_Internet\\MVC\\Views\\Home\\Actual.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Home\\Actual.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-12T03:13:07.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MasMuestras.cshtml",
               "DocumentMoniker": "C:\\Users\\Jzorro\\Desktop\\Tecs_Inter\\Tecs_Internet\\MVC\\Views\\Home\\MasMuestras.cshtml",
               "RelativeDocumentMoniker": "MVC\\Views\\Home\\MasMuestras.cshtml",
               "ToolTip": "C:\\Users\\Jzorro\\Desktop\\Tecs_Inter\\Tecs_Internet\\MVC\\Views\\Home\\MasMuestras.cshtml",
               "RelativeToolTip": "MVC\\Views\\Home\\MasMuestras.cshtml",
-              "ViewState": "AgIAAHsAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAAIYAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-12T00:27:12.591Z",
               "EditorCaption": ""

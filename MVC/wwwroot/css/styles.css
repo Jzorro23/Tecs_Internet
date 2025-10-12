@@ -8,7 +8,7 @@ h2{ font-size: 100%; }
 
 @font-face {
   font-family: Itim;
-  src: url(../fonts/Itim-Regular.otf);
+  src: url(Fonts/Itim-Regular.otf);
 }
 
 /* Fondo degradado claro → morado */
@@ -711,12 +711,17 @@ body {
 }
 
 /*VARIEDADES TEXTOS*/
+.cont_titulo {
+  height: 80vh; /* ocupa toda la pantalla */
+  margin-top: 5%;
+  
+}
 
 .titulo {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh; /* ocupa toda la pantalla */
+  height: 45vh; /* ocupa toda la pantalla */
   gap: 0.2em;
   font-family: 'Montserrat', sans-serif;
   font-weight: 900;
@@ -726,15 +731,17 @@ body {
 
 .titulo span {
   position: relative;
-  color: transparent;
-  -webkit-text-stroke: 2px #4c98a5; /* contorno base */
+  color:#5a2a80; /* se rellena */
+  
+  -webkit-text-stroke: 2px #5a2a80; /* contorno base */
   transition: all 0.4s ease;
 }
 
 .titulo span:hover {
-  color: #56ccf2; /* se rellena */
-  -webkit-text-stroke: 2px transparent; /* quita contorno */
-  transform: scale(1.3);
+  color: transparent; /* se rellena */
+  -webkit-text-stroke: 2px white; /* quita contorno */
+  transform: scale(1.2);
+
   text-shadow:
     0 0 10px #b72fed,
     0 0 20px #782fed,
@@ -792,13 +799,12 @@ body {
 
 
 .neon-subtitulo {
-  font-size: 5rem;
+  font-size: 3rem;
   font-weight: bold;
   display: inline-block;
-  text-transform: uppercase;
   --color1: #b85db0;
   --color2: #b67ee0;
-  --delay-step: 0.08s;
+  --delay-step: 1s;
 }
 
 .neon-subtitulo span {
@@ -845,7 +851,7 @@ body {
   position: relative;
   width: 70px;
   height: 70px;
-  background: white;
+  background:  #7E39B8;
   border-radius: 60px;
   cursor: pointer;
   display: flex;
@@ -864,7 +870,7 @@ body {
   content: "";
   position: absolute;
   border-radius: 60px;
-  background: linear-gradient(45deg, var(--i), var(--j));
+  /*background: linear-gradient( #7E39B8,#7E39B8, var(--j));*/
   transition: 0.5s;
   opacity: 0;
 }
@@ -876,6 +882,7 @@ body {
   height: 100%;
   filter: blur(15px);
   z-index: -1;
+  
 }
 
 /* Ícono interno */
@@ -1010,12 +1017,12 @@ section {
   padding: 5%;
 }
 
-#content img {
-    width: 100%;
-    aspect-ratio: 1/1;
-    object-fit: cover;
-    border-top-left-radius: inherit;
-    border-bottom-left-radius: inherit;
+#content img{
+  width: 100%;
+  aspect-ratio: 1/1;
+  object-fit: cover;
+  border-top-left-radius: inherit;
+  border-bottom-left-radius: inherit;
 }
 
 /*QUIENES SOMOS*/
@@ -1104,7 +1111,7 @@ section {
 }
 
 .Qs_Banner{
-  background-image: url(/images/People/Bg_Quienes.png);
+  background-image: url(images/People/Bg_Quienes.png);
   background-repeat: no-repeat;
   background-size:cover;
   border-radius: 10px;
