@@ -1021,6 +1021,8 @@ section {
   width: 100%;
   aspect-ratio: 1/1;
   object-fit: cover;
+  border-top-left-radius: inherit;
+  border-bottom-left-radius: inherit;
 }
 
 /*QUIENES SOMOS*/
