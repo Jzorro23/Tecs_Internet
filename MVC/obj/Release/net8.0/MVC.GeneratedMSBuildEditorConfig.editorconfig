@@ -9,57 +9,57 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MVC
 build_property.RootNamespace = MVC
-build_property.ProjectDir = C:\Users\Jzorro\Desktop\Tecs_Inter\MVC\MVC\
+build_property.ProjectDir = C:\Users\Sofyv\OneDrive\Escritorio\gitTecs\Tecs_Internet\MVC\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Jzorro\Desktop\Tecs_Inter\MVC\MVC
+build_property.MSBuildProjectDirectory = C:\Users\Sofyv\OneDrive\Escritorio\gitTecs\Tecs_Internet\MVC
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/Jzorro/Desktop/Tecs_Inter/MVC/MVC/Views/Home/Actual.cshtml]
+[C:/Users/Sofyv/OneDrive/Escritorio/gitTecs/Tecs_Internet/MVC/Views/Home/Actual.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBY3R1YWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Jzorro/Desktop/Tecs_Inter/MVC/MVC/Views/Home/Calendario.cshtml]
+[C:/Users/Sofyv/OneDrive/Escritorio/gitTecs/Tecs_Internet/MVC/Views/Home/Calendario.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYWxlbmRhcmlvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Jzorro/Desktop/Tecs_Inter/MVC/MVC/Views/Home/Index.cshtml]
+[C:/Users/Sofyv/OneDrive/Escritorio/gitTecs/Tecs_Internet/MVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Jzorro/Desktop/Tecs_Inter/MVC/MVC/Views/Home/MasMuestras.cshtml]
+[C:/Users/Sofyv/OneDrive/Escritorio/gitTecs/Tecs_Internet/MVC/Views/Home/MasMuestras.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNYXNNdWVzdHJhcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Jzorro/Desktop/Tecs_Inter/MVC/MVC/Views/Home/Past.cshtml]
+[C:/Users/Sofyv/OneDrive/Escritorio/gitTecs/Tecs_Internet/MVC/Views/Home/Past.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQYXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Jzorro/Desktop/Tecs_Inter/MVC/MVC/Views/Home/QSomos.cshtml]
+[C:/Users/Sofyv/OneDrive/Escritorio/gitTecs/Tecs_Internet/MVC/Views/Home/QSomos.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxRU29tb3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Jzorro/Desktop/Tecs_Inter/MVC/MVC/Views/Shared/Error.cshtml]
+[C:/Users/Sofyv/OneDrive/Escritorio/gitTecs/Tecs_Internet/MVC/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Jzorro/Desktop/Tecs_Inter/MVC/MVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Sofyv/OneDrive/Escritorio/gitTecs/Tecs_Internet/MVC/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Jzorro/Desktop/Tecs_Inter/MVC/MVC/Views/_ViewImports.cshtml]
+[C:/Users/Sofyv/OneDrive/Escritorio/gitTecs/Tecs_Internet/MVC/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Jzorro/Desktop/Tecs_Inter/MVC/MVC/Views/_ViewStart.cshtml]
+[C:/Users/Sofyv/OneDrive/Escritorio/gitTecs/Tecs_Internet/MVC/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Jzorro/Desktop/Tecs_Inter/MVC/MVC/Views/Shared/_Layout.cshtml]
+[C:/Users/Sofyv/OneDrive/Escritorio/gitTecs/Tecs_Internet/MVC/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-q0a04yuu0e

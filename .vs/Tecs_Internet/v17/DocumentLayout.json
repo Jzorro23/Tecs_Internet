@@ -1,14 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Jzorro\\Desktop\\Tecs_Inter\\Tecs_Internet\\",
+  "WorkspaceRootPath": "C:\\Users\\Sofyv\\OneDrive\\Escritorio\\gitTecs\\Tecs_Internet\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{49A22FD4-FC39-D5A1-2992-E6C456843950}|MVC\\MVC.csproj|c:\\users\\jzorro\\desktop\\tecs_inter\\tecs_internet\\mvc\\views\\home\\actual.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{49A22FD4-FC39-D5A1-2992-E6C456843950}|MVC\\MVC.csproj|c:\\users\\sofyv\\onedrive\\escritorio\\gittecs\\tecs_internet\\mvc\\views\\home\\masmuestras.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{49A22FD4-FC39-D5A1-2992-E6C456843950}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\home\\masmuestras.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49A22FD4-FC39-D5A1-2992-E6C456843950}|MVC\\MVC.csproj|c:\\users\\sofyv\\onedrive\\escritorio\\gittecs\\tecs_internet\\mvc\\views\\home\\actual.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{49A22FD4-FC39-D5A1-2992-E6C456843950}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\home\\actual.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49A22FD4-FC39-D5A1-2992-E6C456843950}|MVC\\MVC.csproj|c:\\users\\jzorro\\desktop\\tecs_inter\\tecs_internet\\mvc\\views\\home\\masmuestras.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{49A22FD4-FC39-D5A1-2992-E6C456843950}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\home\\masmuestras.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{49A22FD4-FC39-D5A1-2992-E6C456843950}|MVC\\MVC.csproj|c:\\users\\sofyv\\onedrive\\escritorio\\gittecs\\tecs_internet\\mvc\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{49A22FD4-FC39-D5A1-2992-E6C456843950}|MVC\\MVC.csproj|solutionrelative:mvc\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Actual.cshtml",
-              "DocumentMoniker": "C:\\Users\\Jzorro\\Desktop\\Tecs_Inter\\Tecs_Internet\\MVC\\Views\\Home\\Actual.cshtml",
-              "RelativeDocumentMoniker": "MVC\\Views\\Home\\Actual.cshtml",
-              "ToolTip": "C:\\Users\\Jzorro\\Desktop\\Tecs_Inter\\Tecs_Internet\\MVC\\Views\\Home\\Actual.cshtml",
-              "RelativeToolTip": "MVC\\Views\\Home\\Actual.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-12T03:13:07.541Z",
-              "EditorCaption": ""
+              "DocumentIndex": 2,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\Sofyv\\OneDrive\\Escritorio\\gitTecs\\Tecs_Internet\\MVC\\wwwroot\\css\\styles.css",
+              "RelativeDocumentMoniker": "MVC\\wwwroot\\css\\styles.css",
+              "ToolTip": "C:\\Users\\Sofyv\\OneDrive\\Escritorio\\gitTecs\\Tecs_Internet\\MVC\\wwwroot\\css\\styles.css",
+              "RelativeToolTip": "MVC\\wwwroot\\css\\styles.css",
+              "ViewState": "AgIAAIgHAAAAAAAAAAAAAJUHAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-14T22:43:33.883Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Actual.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sofyv\\OneDrive\\Escritorio\\gitTecs\\Tecs_Internet\\MVC\\Views\\Home\\Actual.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Home\\Actual.cshtml",
+              "ToolTip": "C:\\Users\\Sofyv\\OneDrive\\Escritorio\\gitTecs\\Tecs_Internet\\MVC\\Views\\Home\\Actual.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Home\\Actual.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-12T03:13:07.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "MasMuestras.cshtml",
-              "DocumentMoniker": "C:\\Users\\Jzorro\\Desktop\\Tecs_Inter\\Tecs_Internet\\MVC\\Views\\Home\\MasMuestras.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sofyv\\OneDrive\\Escritorio\\gitTecs\\Tecs_Internet\\MVC\\Views\\Home\\MasMuestras.cshtml",
               "RelativeDocumentMoniker": "MVC\\Views\\Home\\MasMuestras.cshtml",
-              "ToolTip": "C:\\Users\\Jzorro\\Desktop\\Tecs_Inter\\Tecs_Internet\\MVC\\Views\\Home\\MasMuestras.cshtml",
+              "ToolTip": "C:\\Users\\Sofyv\\OneDrive\\Escritorio\\gitTecs\\Tecs_Internet\\MVC\\Views\\Home\\MasMuestras.cshtml",
               "RelativeToolTip": "MVC\\Views\\Home\\MasMuestras.cshtml",
-              "ViewState": "AgIAAHsAAAAAAAAAAAAAAIYAAABJAAAAAAAAAA==",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAAwKUAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-12T00:27:12.591Z",
               "EditorCaption": ""

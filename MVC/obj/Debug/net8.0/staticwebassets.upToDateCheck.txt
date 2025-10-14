@@ -1,8 +1,10 @@
 wwwroot\css\site.css
+wwwroot\css\styles.css
 wwwroot\favicon.ico
 wwwroot\fonts\Itim-Regular.otf
 wwwroot\images\2D_Art\El-Metaverso_Juan_Gutierrez - Juan José Gutiérrez Salcedo.gif
 wwwroot\images\2D_Art\EmbeddedImage.gif
+wwwroot\images\2D_Art\MAJORTON.gif
 wwwroot\images\2D_Art\Metaverso_Amarillo - Natalia Sofia Porras Pineda.png
 wwwroot\images\2D_Art\muestras_1.png
 wwwroot\images\2D_Art\muestras_2.png
@@ -71,6 +73,7 @@ wwwroot\js\gen.js
 wwwroot\js\homepage.js
 wwwroot\js\mmuestras.js
 wwwroot\js\past.js
+wwwroot\js\qsomos.js
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
@@ -129,4 +132,3 @@ wwwroot\lib\jquery\dist\jquery.js
 wwwroot\lib\jquery\dist\jquery.min.js
 wwwroot\lib\jquery\dist\jquery.min.map
 wwwroot\lib\jquery\LICENSE.txt
-wwwroot\css\styles.css

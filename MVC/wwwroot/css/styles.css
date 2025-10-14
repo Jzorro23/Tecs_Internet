@@ -1117,7 +1117,7 @@ section {
 }
 
 .Qs_Banner{
-  background-image: url(images/People/Bg_Quienes.png);
+  background-image: url(/images/People/Bg_Quienes.png);
   background-repeat: no-repeat;
   background-size:cover;
   border-radius: 10px;
@@ -1577,23 +1577,29 @@ section {
   gap: 20px;
 }
 
-.galeria li {
-  display: flex;
-  justify-content: center;
-}
 
+.galeria li {
+    display: flex;
+    justify-content: center;
+}
+.galeria_games {
+    list-style: none;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* 3 columnas */
+    gap: 20px;
+}
 /* Tarjeta estilo card6 */
 .card6 {
-  margin-top: 15px;
-  margin-bottom: 15px;
-  position: relative;
-  width: 100%;
-  max-width: 430px;
-  height: 400px;
-background: linear-gradient(-135deg, #4B1C73, #a855f7);
-  border-radius: 8px;
-  box-shadow: 0 20px 30px rgba(0,0,0,0.2);
-  z-index: 0;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    position: relative;
+    width: 100%;
+    max-width: 430px;
+    height: 400px;
+    background: linear-gradient(-135deg, #4B1C73, #a855f7);
+    border-radius: 8px;
+    box-shadow: 0 20px 30px rgba(0,0,0,0.2);
+    z-index: 0;
 }
 
 .card6:before,
@@ -1933,6 +1939,12 @@ background: linear-gradient(-135deg, #4B1C73, #a855f7);
     gap: 20px;
     padding: 0;
   }
+ .galeria_games {
+    list-style: none;
+    display: grid;
+    grid-template-columns: repeat(1, 1fr); /* 3 columnas */
+    gap: 20px;
+}
   .lightbox-content {
     max-width: 50%;
     max-height: 80%;
