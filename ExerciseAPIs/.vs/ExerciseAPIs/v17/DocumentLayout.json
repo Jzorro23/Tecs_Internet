@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jzorro\\Desktop\\Tecs_Inter\\ExerciseAPIs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C06DD54-7802-44B5-B440-001168FFEF82}|AutoresData\\AutoresData.csproj|c:\\users\\jzorro\\desktop\\tecs_inter\\exerciseapis\\autoresdata\\autoresd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C06DD54-7802-44B5-B440-001168FFEF82}|AutoresData\\AutoresData.csproj|solutionrelative:autoresdata\\autoresd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A972F901-EF5A-4CBD-88BC-9D31945139C6}|AutoresAPI\\AutoresAPI.csproj|c:\\users\\jzorro\\desktop\\tecs_inter\\exerciseapis\\autoresapi\\controllers\\autorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A972F901-EF5A-4CBD-88BC-9D31945139C6}|AutoresAPI\\AutoresAPI.csproj|solutionrelative:autoresapi\\controllers\\autorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E012112C-ACA2-4983-BA3D-94F23C7BCBC1}|ExerciseAPIs\\ExerciseAPIs.csproj|c:\\users\\jzorro\\desktop\\tecs_inter\\exerciseapis\\exerciseapis\\views\\home\\autor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E012112C-ACA2-4983-BA3D-94F23C7BCBC1}|ExerciseAPIs\\ExerciseAPIs.csproj|solutionrelative:exerciseapis\\views\\home\\autor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E012112C-ACA2-4983-BA3D-94F23C7BCBC1}|ExerciseAPIs\\ExerciseAPIs.csproj|c:\\users\\jzorro\\desktop\\tecs_inter\\exerciseapis\\exerciseapis\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E012112C-ACA2-4983-BA3D-94F23C7BCBC1}|ExerciseAPIs\\ExerciseAPIs.csproj|solutionrelative:exerciseapis\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E012112C-ACA2-4983-BA3D-94F23C7BCBC1}|ExerciseAPIs\\ExerciseAPIs.csproj|c:\\users\\jzorro\\desktop\\tecs_inter\\exerciseapis\\exerciseapis\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E012112C-ACA2-4983-BA3D-94F23C7BCBC1}|ExerciseAPIs\\ExerciseAPIs.csproj|solutionrelative:exerciseapis\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E012112C-ACA2-4983-BA3D-94F23C7BCBC1}|ExerciseAPIs\\ExerciseAPIs.csproj|c:\\users\\jzorro\\desktop\\tecs_inter\\exerciseapis\\exerciseapis\\apiservices\\apiautores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E012112C-ACA2-4983-BA3D-94F23C7BCBC1}|ExerciseAPIs\\ExerciseAPIs.csproj|solutionrelative:exerciseapis\\apiservices\\apiautores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E012112C-ACA2-4983-BA3D-94F23C7BCBC1}|ExerciseAPIs\\ExerciseAPIs.csproj|c:\\users\\jzorro\\desktop\\tecs_inter\\exerciseapis\\exerciseapis\\apiservices\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E012112C-ACA2-4983-BA3D-94F23C7BCBC1}|ExerciseAPIs\\ExerciseAPIs.csproj|solutionrelative:exerciseapis\\apiservices\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E012112C-ACA2-4983-BA3D-94F23C7BCBC1}|ExerciseAPIs\\ExerciseAPIs.csproj|c:\\users\\jzorro\\desktop\\tecs_inter\\exerciseapis\\exerciseapis\\views\\home\\_autortable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E012112C-ACA2-4983-BA3D-94F23C7BCBC1}|ExerciseAPIs\\ExerciseAPIs.csproj|solutionrelative:exerciseapis\\views\\home\\_autortable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8D575EE-792A-4240-9D04-E737BF88FE13}|AutoresBusiness\\AutoresBusiness.csproj|c:\\users\\jzorro\\desktop\\tecs_inter\\exerciseapis\\autoresbusiness\\autoresb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8D575EE-792A-4240-9D04-E737BF88FE13}|AutoresBusiness\\AutoresBusiness.csproj|solutionrelative:autoresbusiness\\autoresb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_AutorTable.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jzorro\\Desktop\\Tecs_Inter\\ExerciseAPIs\\ExerciseAPIs\\Views\\Home\\_AutorTable.cshtml",
+              "RelativeDocumentMoniker": "ExerciseAPIs\\Views\\Home\\_AutorTable.cshtml",
+              "ToolTip": "C:\\Users\\Jzorro\\Desktop\\Tecs_Inter\\ExerciseAPIs\\ExerciseAPIs\\Views\\Home\\_AutorTable.cshtml",
+              "RelativeToolTip": "ExerciseAPIs\\Views\\Home\\_AutorTable.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-18T02:28:35.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "APIService.cs",
+              "DocumentMoniker": "C:\\Users\\Jzorro\\Desktop\\Tecs_Inter\\ExerciseAPIs\\ExerciseAPIs\\APIServices\\APIService.cs",
+              "RelativeDocumentMoniker": "ExerciseAPIs\\APIServices\\APIService.cs",
+              "ToolTip": "C:\\Users\\Jzorro\\Desktop\\Tecs_Inter\\ExerciseAPIs\\ExerciseAPIs\\APIServices\\APIService.cs",
+              "RelativeToolTip": "ExerciseAPIs\\APIServices\\APIService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T23:37:20.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "APIAutores.cs",
+              "DocumentMoniker": "C:\\Users\\Jzorro\\Desktop\\Tecs_Inter\\ExerciseAPIs\\ExerciseAPIs\\APIServices\\APIAutores.cs",
+              "RelativeDocumentMoniker": "ExerciseAPIs\\APIServices\\APIAutores.cs",
+              "ToolTip": "C:\\Users\\Jzorro\\Desktop\\Tecs_Inter\\ExerciseAPIs\\ExerciseAPIs\\APIServices\\APIAutores.cs",
+              "RelativeToolTip": "ExerciseAPIs\\APIServices\\APIAutores.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T23:06:17.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jzorro\\Desktop\\Tecs_Inter\\ExerciseAPIs\\ExerciseAPIs\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ExerciseAPIs\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Jzorro\\Desktop\\Tecs_Inter\\ExerciseAPIs\\ExerciseAPIs\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ExerciseAPIs\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-17T00:40:49.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Jzorro\\Desktop\\Tecs_Inter\\ExerciseAPIs\\ExerciseAPIs\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ExerciseAPIs\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Jzorro\\Desktop\\Tecs_Inter\\ExerciseAPIs\\ExerciseAPIs\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ExerciseAPIs\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T00:40:20.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Autor.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jzorro\\Desktop\\Tecs_Inter\\ExerciseAPIs\\ExerciseAPIs\\Views\\Home\\Autor.cshtml",
+              "RelativeDocumentMoniker": "ExerciseAPIs\\Views\\Home\\Autor.cshtml",
+              "ToolTip": "C:\\Users\\Jzorro\\Desktop\\Tecs_Inter\\ExerciseAPIs\\ExerciseAPIs\\Views\\Home\\Autor.cshtml",
+              "RelativeToolTip": "ExerciseAPIs\\Views\\Home\\Autor.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-17T00:21:06.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutoresController.cs",
+              "DocumentMoniker": "C:\\Users\\Jzorro\\Desktop\\Tecs_Inter\\ExerciseAPIs\\AutoresAPI\\Controllers\\AutoresController.cs",
+              "RelativeDocumentMoniker": "AutoresAPI\\Controllers\\AutoresController.cs",
+              "ToolTip": "C:\\Users\\Jzorro\\Desktop\\Tecs_Inter\\ExerciseAPIs\\AutoresAPI\\Controllers\\AutoresController.cs",
+              "RelativeToolTip": "AutoresAPI\\Controllers\\AutoresController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwBwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T21:42:05.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AutoresD.cs",
+              "DocumentMoniker": "C:\\Users\\Jzorro\\Desktop\\Tecs_Inter\\ExerciseAPIs\\AutoresData\\AutoresD.cs",
+              "RelativeDocumentMoniker": "AutoresData\\AutoresD.cs",
+              "ToolTip": "C:\\Users\\Jzorro\\Desktop\\Tecs_Inter\\ExerciseAPIs\\AutoresData\\AutoresD.cs",
+              "RelativeToolTip": "AutoresData\\AutoresD.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T21:21:53.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AutoresB.cs",
+              "DocumentMoniker": "C:\\Users\\Jzorro\\Desktop\\Tecs_Inter\\ExerciseAPIs\\AutoresBusiness\\AutoresB.cs",
+              "RelativeDocumentMoniker": "AutoresBusiness\\AutoresB.cs",
+              "ToolTip": "C:\\Users\\Jzorro\\Desktop\\Tecs_Inter\\ExerciseAPIs\\AutoresBusiness\\AutoresB.cs",
+              "RelativeToolTip": "AutoresBusiness\\AutoresB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T21:21:07.175Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

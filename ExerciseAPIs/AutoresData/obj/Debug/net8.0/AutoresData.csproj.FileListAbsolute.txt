@@ -1,0 +1,15 @@
+C:\Users\Jzorro\Desktop\Tecs_Inter\ExerciseAPIs\AutoresData\bin\Debug\net8.0\AutoresData.deps.json
+C:\Users\Jzorro\Desktop\Tecs_Inter\ExerciseAPIs\AutoresData\bin\Debug\net8.0\AutoresData.dll
+C:\Users\Jzorro\Desktop\Tecs_Inter\ExerciseAPIs\AutoresData\bin\Debug\net8.0\AutoresData.pdb
+C:\Users\Jzorro\Desktop\Tecs_Inter\ExerciseAPIs\AutoresData\bin\Debug\net8.0\Models.dll
+C:\Users\Jzorro\Desktop\Tecs_Inter\ExerciseAPIs\AutoresData\bin\Debug\net8.0\Models.pdb
+C:\Users\Jzorro\Desktop\Tecs_Inter\ExerciseAPIs\AutoresData\obj\Debug\net8.0\AutoresData.csproj.AssemblyReference.cache
+C:\Users\Jzorro\Desktop\Tecs_Inter\ExerciseAPIs\AutoresData\obj\Debug\net8.0\AutoresData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jzorro\Desktop\Tecs_Inter\ExerciseAPIs\AutoresData\obj\Debug\net8.0\AutoresData.AssemblyInfoInputs.cache
+C:\Users\Jzorro\Desktop\Tecs_Inter\ExerciseAPIs\AutoresData\obj\Debug\net8.0\AutoresData.AssemblyInfo.cs
+C:\Users\Jzorro\Desktop\Tecs_Inter\ExerciseAPIs\AutoresData\obj\Debug\net8.0\AutoresData.csproj.CoreCompileInputs.cache
+C:\Users\Jzorro\Desktop\Tecs_Inter\ExerciseAPIs\AutoresData\obj\Debug\net8.0\AutoresD.683E1CE1.Up2Date
+C:\Users\Jzorro\Desktop\Tecs_Inter\ExerciseAPIs\AutoresData\obj\Debug\net8.0\AutoresData.dll
+C:\Users\Jzorro\Desktop\Tecs_Inter\ExerciseAPIs\AutoresData\obj\Debug\net8.0\refint\AutoresData.dll
+C:\Users\Jzorro\Desktop\Tecs_Inter\ExerciseAPIs\AutoresData\obj\Debug\net8.0\AutoresData.pdb
+C:\Users\Jzorro\Desktop\Tecs_Inter\ExerciseAPIs\AutoresData\obj\Debug\net8.0\ref\AutoresData.dll
