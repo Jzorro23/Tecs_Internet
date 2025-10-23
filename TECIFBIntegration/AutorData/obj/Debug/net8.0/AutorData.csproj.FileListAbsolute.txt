@@ -1,0 +1,15 @@
+C:\Users\Jzorro\Desktop\Tecs_Inter\TECIFBIntegration\AutorData\bin\Debug\net8.0\AutorData.deps.json
+C:\Users\Jzorro\Desktop\Tecs_Inter\TECIFBIntegration\AutorData\bin\Debug\net8.0\AutorData.dll
+C:\Users\Jzorro\Desktop\Tecs_Inter\TECIFBIntegration\AutorData\bin\Debug\net8.0\AutorData.pdb
+C:\Users\Jzorro\Desktop\Tecs_Inter\TECIFBIntegration\AutorData\bin\Debug\net8.0\AutorModels.dll
+C:\Users\Jzorro\Desktop\Tecs_Inter\TECIFBIntegration\AutorData\bin\Debug\net8.0\AutorModels.pdb
+C:\Users\Jzorro\Desktop\Tecs_Inter\TECIFBIntegration\AutorData\obj\Debug\net8.0\AutorData.csproj.AssemblyReference.cache
+C:\Users\Jzorro\Desktop\Tecs_Inter\TECIFBIntegration\AutorData\obj\Debug\net8.0\AutorData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jzorro\Desktop\Tecs_Inter\TECIFBIntegration\AutorData\obj\Debug\net8.0\AutorData.AssemblyInfoInputs.cache
+C:\Users\Jzorro\Desktop\Tecs_Inter\TECIFBIntegration\AutorData\obj\Debug\net8.0\AutorData.AssemblyInfo.cs
+C:\Users\Jzorro\Desktop\Tecs_Inter\TECIFBIntegration\AutorData\obj\Debug\net8.0\AutorData.csproj.CoreCompileInputs.cache
+C:\Users\Jzorro\Desktop\Tecs_Inter\TECIFBIntegration\AutorData\obj\Debug\net8.0\AutorData.csproj.Up2Date
+C:\Users\Jzorro\Desktop\Tecs_Inter\TECIFBIntegration\AutorData\obj\Debug\net8.0\AutorData.dll
+C:\Users\Jzorro\Desktop\Tecs_Inter\TECIFBIntegration\AutorData\obj\Debug\net8.0\refint\AutorData.dll
+C:\Users\Jzorro\Desktop\Tecs_Inter\TECIFBIntegration\AutorData\obj\Debug\net8.0\AutorData.pdb
+C:\Users\Jzorro\Desktop\Tecs_Inter\TECIFBIntegration\AutorData\obj\Debug\net8.0\ref\AutorData.dll

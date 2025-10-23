@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TECIFBIntegration", "TECIFBIntegration\TECIFBIntegration.csproj", "{12ACB190-5F2E-43D6-AF6E-C424CD7B2B31}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "APIServices", "APIServices", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Autor", "Autor", "{08BE94AB-C221-4275-BD23-C5033C03AD49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoresAPI", "AutoresAPI\AutoresAPI.csproj", "{4C034A54-C622-4044-83FC-4074115CDB27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutorModels", "AutorModels\AutorModels.csproj", "{2BB9918D-2BBD-43EC-86AD-EB2AD3ED2869}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutorData", "AutorData\AutorData.csproj", "{2E6CA539-F0A5-47BA-B404-BDA94B2D15C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutorBusiness", "AutorBusiness\AutorBusiness.csproj", "{4AD99691-7AE7-4458-AFF9-0574737BF022}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12ACB190-5F2E-43D6-AF6E-C424CD7B2B31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12ACB190-5F2E-43D6-AF6E-C424CD7B2B31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12ACB190-5F2E-43D6-AF6E-C424CD7B2B31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12ACB190-5F2E-43D6-AF6E-C424CD7B2B31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C034A54-C622-4044-83FC-4074115CDB27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C034A54-C622-4044-83FC-4074115CDB27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C034A54-C622-4044-83FC-4074115CDB27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C034A54-C622-4044-83FC-4074115CDB27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BB9918D-2BBD-43EC-86AD-EB2AD3ED2869}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BB9918D-2BBD-43EC-86AD-EB2AD3ED2869}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BB9918D-2BBD-43EC-86AD-EB2AD3ED2869}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BB9918D-2BBD-43EC-86AD-EB2AD3ED2869}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E6CA539-F0A5-47BA-B404-BDA94B2D15C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E6CA539-F0A5-47BA-B404-BDA94B2D15C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E6CA539-F0A5-47BA-B404-BDA94B2D15C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E6CA539-F0A5-47BA-B404-BDA94B2D15C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AD99691-7AE7-4458-AFF9-0574737BF022}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AD99691-7AE7-4458-AFF9-0574737BF022}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AD99691-7AE7-4458-AFF9-0574737BF022}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AD99691-7AE7-4458-AFF9-0574737BF022}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{08BE94AB-C221-4275-BD23-C5033C03AD49} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{4C034A54-C622-4044-83FC-4074115CDB27} = {08BE94AB-C221-4275-BD23-C5033C03AD49}
+		{2BB9918D-2BBD-43EC-86AD-EB2AD3ED2869} = {08BE94AB-C221-4275-BD23-C5033C03AD49}
+		{2E6CA539-F0A5-47BA-B404-BDA94B2D15C5} = {08BE94AB-C221-4275-BD23-C5033C03AD49}
+		{4AD99691-7AE7-4458-AFF9-0574737BF022} = {08BE94AB-C221-4275-BD23-C5033C03AD49}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E692064E-266A-4765-801B-A600040EFE5E}
+	EndGlobalSection
+EndGlobal

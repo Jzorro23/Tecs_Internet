@@ -1,0 +1,98 @@
+﻿
+
+<h1>Bienvenido a Admin</h1>
+@{
+    ViewData["Admin"] = "Admin Page";
+}
+
+
+<h1 class="main-title">Administración de Usuarios</h1>
+<hr>
+
+<!-- Alerta para mensajes -->
+@if (TempData["Message"] != null)
+{
+    <script>
+        const Toast = Swal.mixin({
+            toast: true,
+            position: "bottom-end",
+            showConfirmButton: false,
+            timer: 5000,
+            timerProgressBar: true,
+            didOpen: (toast) => {
+                toast.addEventListener('mouseenter', Swal.stopTimer);
+                toast.addEventListener('mouseleave', Swal.resumeTimer);
+            }
+        });
+
+        Toast.fire({
+            icon: "success",
+            title: "@TempData["Message"]"
+        });
+    </script>
+}
+
+<!-- Eliminar Usuario -->
+<section class="section">
+    <h2 class="section-title">Borrar Usuario</h2>
+    <form asp-action="DeleteUsuario" method="post">
+        <div class="form-group">
+            <label for="UsuarioId">Ingrese ID a Eliminar:</label>
+            <input type="text" id="UsuarioId" class="input-field" name="Id">
+            <button class="btn">OK</button>
+        </div>
+    </form>
+</section>
+
+
+<!-- Actualizar Usuario -->
+<form asp-action="UpdateUsuario" asp-controller="Home" method="post">
+    <section class="section">
+        <h2 class="section-title">Actualizar Usuario</h2>
+        <div class="form-group">
+            <label for="UsuarioIdUpdate">Ingrese ID:</label>
+            <input type="text" id="UsuarioIdUpdate" name="id" class="input-field" required>
+        </div>
+
+        <div class="form-group">
+            <label for="UsuarioEmailUpdate">Email:</label>
+            <input type="text" id="UsuarioEmailUpdate" name="Email" class="input-field" required>
+        </div>
+
+        <div class="form-group">
+            <label for="UsuarioPasswordUpdate">Password:</label>
+            <input type="text" id="UsuarioPasswordUpdate" name="Password" class="input-field" required>
+        </div>
+
+        <div class="form-group">
+            <label for="UsuarioNameUpdate">Nombre:</label>
+            <input type="text" id="UsuarioNameUpdate" name="Name" class="input-field" required>
+            <div class="form-group">
+                <button type="submit" class="btn">Actualizar Recurso</button>
+            </div>
+    </section>
+</form>
+
+<!-- Sección de Usuarios Registrados -->
+<section class="section">
+    <h2 class="section-title">Lista de Usuarios Registrados</h2>
+    <div class="table-container">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>ID Usuarios</th>
+                    <th>Email Usuarios</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var Users in Model.Usuario)
+                {
+                    <tr>
+                        <th>@Users.Id</th>
+                        <th>@Users.Email</th>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</section>

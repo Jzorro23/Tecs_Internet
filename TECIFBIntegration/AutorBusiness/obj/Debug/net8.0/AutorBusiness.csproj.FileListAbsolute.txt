@@ -1,0 +1,17 @@
+C:\Users\Jzorro\Desktop\Tecs_Inter\TECIFBIntegration\AutorBusiness\bin\Debug\net8.0\AutorBusiness.deps.json
+C:\Users\Jzorro\Desktop\Tecs_Inter\TECIFBIntegration\AutorBusiness\bin\Debug\net8.0\AutorBusiness.dll
+C:\Users\Jzorro\Desktop\Tecs_Inter\TECIFBIntegration\AutorBusiness\bin\Debug\net8.0\AutorBusiness.pdb
+C:\Users\Jzorro\Desktop\Tecs_Inter\TECIFBIntegration\AutorBusiness\bin\Debug\net8.0\AutorData.dll
+C:\Users\Jzorro\Desktop\Tecs_Inter\TECIFBIntegration\AutorBusiness\bin\Debug\net8.0\AutorModels.dll
+C:\Users\Jzorro\Desktop\Tecs_Inter\TECIFBIntegration\AutorBusiness\bin\Debug\net8.0\AutorData.pdb
+C:\Users\Jzorro\Desktop\Tecs_Inter\TECIFBIntegration\AutorBusiness\bin\Debug\net8.0\AutorModels.pdb
+C:\Users\Jzorro\Desktop\Tecs_Inter\TECIFBIntegration\AutorBusiness\obj\Debug\net8.0\AutorBusiness.csproj.AssemblyReference.cache
+C:\Users\Jzorro\Desktop\Tecs_Inter\TECIFBIntegration\AutorBusiness\obj\Debug\net8.0\AutorBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jzorro\Desktop\Tecs_Inter\TECIFBIntegration\AutorBusiness\obj\Debug\net8.0\AutorBusiness.AssemblyInfoInputs.cache
+C:\Users\Jzorro\Desktop\Tecs_Inter\TECIFBIntegration\AutorBusiness\obj\Debug\net8.0\AutorBusiness.AssemblyInfo.cs
+C:\Users\Jzorro\Desktop\Tecs_Inter\TECIFBIntegration\AutorBusiness\obj\Debug\net8.0\AutorBusiness.csproj.CoreCompileInputs.cache
+C:\Users\Jzorro\Desktop\Tecs_Inter\TECIFBIntegration\AutorBusiness\obj\Debug\net8.0\AutorBus.B73A4488.Up2Date
+C:\Users\Jzorro\Desktop\Tecs_Inter\TECIFBIntegration\AutorBusiness\obj\Debug\net8.0\AutorBusiness.dll
+C:\Users\Jzorro\Desktop\Tecs_Inter\TECIFBIntegration\AutorBusiness\obj\Debug\net8.0\refint\AutorBusiness.dll
+C:\Users\Jzorro\Desktop\Tecs_Inter\TECIFBIntegration\AutorBusiness\obj\Debug\net8.0\AutorBusiness.pdb
+C:\Users\Jzorro\Desktop\Tecs_Inter\TECIFBIntegration\AutorBusiness\obj\Debug\net8.0\ref\AutorBusiness.dll

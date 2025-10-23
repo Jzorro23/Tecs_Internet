@@ -1,0 +1,65 @@
+﻿@{
+    ViewData["Title"] = "Bienvenido al Login";
+}
+<h1>@ViewData["Title"]</h1>
+
+<p>Vista Login para Login's</p>
+<head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.min.css">
+</head>
+<body>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+</body>
+
+@if (TempData["Message"] != null)
+{
+    <script>
+        const Toast = Swal.mixin({
+            toast: true,
+            position: "bottom-end",
+            showConfirmButton: false,
+            timer: 5000,
+            timerProgressBar: true,
+            didOpen: (toast) => {
+                toast.addEventListener('mouseenter', Swal.stopTimer);
+                toast.addEventListener('mouseleave', Swal.resumeTimer);
+            }
+        });
+
+        Toast.fire({
+            icon: "success",
+            title: "@TempData["Message"]"
+        });
+    </script>
+}
+
+
+<div class="wrapper">
+    <div class="card-switch">
+        <label class="switch">
+            <input type="checkbox" class="toggle">
+            <span class="slider"></span>
+            <span class="card-side"></span>
+            <div class="flip-card__inner">
+                <div class="flip-card__front">
+                    <div class="title">Log in</div>
+                    <form asp-action="Login" asp-controller="Home" method="post" class="flip-card__form">
+                        <input type="email" placeholder="Email" name="email" class="flip-card__input" required>
+                        <input type="password" placeholder="Password" name="password" class="flip-card__input" required>
+                        <button type="submit" class="flip-card__btn">Let`s go!</button>
+                    </form>
+                </div>
+                <div class="flip-card__back">
+                    <div class="title">Sign up</div>
+
+                    <form asp-action="RegisterUser" asp-controller="Home" method="post" class="flip-card__form">
+                        <input type="text" placeholder="Name" name="Name" class="flip-card__input" required>
+                        <input type="email" placeholder="Email" name="Email" class="flip-card__input" required>
+                        <input type="password" placeholder="Password" name="Password" class="flip-card__input" required>
+                        <button type="submit" class="flip-card__btn">Confirm!</button>
+                    </form>
+                </div>
+            </div>
+        </label>
+    </div>
+</div>

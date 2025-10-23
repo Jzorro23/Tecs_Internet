@@ -1,0 +1,49 @@
+/* _content/TECIFBIntegration/Views/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-fuo1upx7up] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-fuo1upx7up] {
+  color: #0077cc;
+}
+
+.btn-primary[b-fuo1upx7up] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-fuo1upx7up], .nav-pills .show > .nav-link[b-fuo1upx7up] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-fuo1upx7up] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-fuo1upx7up] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-fuo1upx7up] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-fuo1upx7up] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-fuo1upx7up] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}

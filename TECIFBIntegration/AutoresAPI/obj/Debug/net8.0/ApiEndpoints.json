@@ -1,0 +1,149 @@
+[
+  {
+    "ContainingType": "AutoresAPI.Controllers.AutorController",
+    "Method": "GetAuthors",
+    "RelativePath": "api/autors",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[AutorModels.Autor, AutorModels, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetAuthors"
+  },
+  {
+    "ContainingType": "AutoresAPI.Controllers.AutorController",
+    "Method": "GetAuthorsByName",
+    "RelativePath": "api/autors/{aname}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "aname",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[AutorModels.Autor, AutorModels, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetAuthorsByName"
+  },
+  {
+    "ContainingType": "AutoresAPI.Controllers.UserController",
+    "Method": "GetUsuarios",
+    "RelativePath": "api/usuarios",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[AutorModels.Usuario, AutorModels, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetUsuarios"
+  },
+  {
+    "ContainingType": "AutoresAPI.Controllers.UserController",
+    "Method": "DeleteResource",
+    "RelativePath": "api/usuarios/DeleteUsuario/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "DeleteUsuario"
+  },
+  {
+    "ContainingType": "AutoresAPI.Controllers.UserController",
+    "Method": "LoguearUsuario",
+    "RelativePath": "api/usuarios/Login/Usuario",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Password",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "LoguearUsuario"
+  },
+  {
+    "ContainingType": "AutoresAPI.Controllers.UserController",
+    "Method": "RegistrarUsuario",
+    "RelativePath": "api/usuarios/RegistrarUsuario",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nuUsuarioDTOC",
+        "Type": "AutorModels.UsuarioDTOC",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "RegistrarUsuario"
+  },
+  {
+    "ContainingType": "AutoresAPI.Controllers.UserController",
+    "Method": "UpdateUsuario",
+    "RelativePath": "api/usuarios/UpdateUsuario/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "UsuarioActualizado",
+        "Type": "AutorModels.UsuarioDTOC",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "UpdateUsuario"
+  }
+]

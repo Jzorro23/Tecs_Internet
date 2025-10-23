@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jzorro\\Desktop\\Tecs_Inter\\TECIFBIntegration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12ACB190-5F2E-43D6-AF6E-C424CD7B2B31}|TECIFBIntegration\\TECIFBIntegration.csproj|c:\\users\\jzorro\\desktop\\tecs_inter\\tecifbintegration\\tecifbintegration\\apiservices\\userapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12ACB190-5F2E-43D6-AF6E-C424CD7B2B31}|TECIFBIntegration\\TECIFBIntegration.csproj|solutionrelative:tecifbintegration\\apiservices\\userapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12ACB190-5F2E-43D6-AF6E-C424CD7B2B31}|TECIFBIntegration\\TECIFBIntegration.csproj|c:\\users\\jzorro\\desktop\\tecs_inter\\tecifbintegration\\tecifbintegration\\apiservices\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12ACB190-5F2E-43D6-AF6E-C424CD7B2B31}|TECIFBIntegration\\TECIFBIntegration.csproj|solutionrelative:tecifbintegration\\apiservices\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12ACB190-5F2E-43D6-AF6E-C424CD7B2B31}|TECIFBIntegration\\TECIFBIntegration.csproj|c:\\users\\jzorro\\desktop\\tecs_inter\\tecifbintegration\\tecifbintegration\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12ACB190-5F2E-43D6-AF6E-C424CD7B2B31}|TECIFBIntegration\\TECIFBIntegration.csproj|solutionrelative:tecifbintegration\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12ACB190-5F2E-43D6-AF6E-C424CD7B2B31}|TECIFBIntegration\\TECIFBIntegration.csproj|c:\\users\\jzorro\\desktop\\tecs_inter\\tecifbintegration\\tecifbintegration\\views\\home\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12ACB190-5F2E-43D6-AF6E-C424CD7B2B31}|TECIFBIntegration\\TECIFBIntegration.csproj|solutionrelative:tecifbintegration\\views\\home\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BB9918D-2BBD-43EC-86AD-EB2AD3ED2869}|AutorModels\\AutorModels.csproj|c:\\users\\jzorro\\desktop\\tecs_inter\\tecifbintegration\\autormodels\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BB9918D-2BBD-43EC-86AD-EB2AD3ED2869}|AutorModels\\AutorModels.csproj|solutionrelative:autormodels\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BB9918D-2BBD-43EC-86AD-EB2AD3ED2869}|AutorModels\\AutorModels.csproj|c:\\users\\jzorro\\desktop\\tecs_inter\\tecifbintegration\\autormodels\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BB9918D-2BBD-43EC-86AD-EB2AD3ED2869}|AutorModels\\AutorModels.csproj|solutionrelative:autormodels\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C034A54-C622-4044-83FC-4074115CDB27}|AutoresAPI\\AutoresAPI.csproj|c:\\users\\jzorro\\desktop\\tecs_inter\\tecifbintegration\\autoresapi\\files\\usuarios.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4C034A54-C622-4044-83FC-4074115CDB27}|AutoresAPI\\AutoresAPI.csproj|solutionrelative:autoresapi\\files\\usuarios.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12ACB190-5F2E-43D6-AF6E-C424CD7B2B31}|TECIFBIntegration\\TECIFBIntegration.csproj|c:\\users\\jzorro\\desktop\\tecs_inter\\tecifbintegration\\tecifbintegration\\models\\getsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12ACB190-5F2E-43D6-AF6E-C424CD7B2B31}|TECIFBIntegration\\TECIFBIntegration.csproj|solutionrelative:tecifbintegration\\models\\getsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12ACB190-5F2E-43D6-AF6E-C424CD7B2B31}|TECIFBIntegration\\TECIFBIntegration.csproj|c:\\users\\jzorro\\desktop\\tecs_inter\\tecifbintegration\\tecifbintegration\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12ACB190-5F2E-43D6-AF6E-C424CD7B2B31}|TECIFBIntegration\\TECIFBIntegration.csproj|solutionrelative:tecifbintegration\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12ACB190-5F2E-43D6-AF6E-C424CD7B2B31}|TECIFBIntegration\\TECIFBIntegration.csproj|c:\\users\\jzorro\\desktop\\tecs_inter\\tecifbintegration\\tecifbintegration\\apiservices\\autorapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12ACB190-5F2E-43D6-AF6E-C424CD7B2B31}|TECIFBIntegration\\TECIFBIntegration.csproj|solutionrelative:tecifbintegration\\apiservices\\autorapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12ACB190-5F2E-43D6-AF6E-C424CD7B2B31}|TECIFBIntegration\\TECIFBIntegration.csproj|c:\\users\\jzorro\\desktop\\tecs_inter\\tecifbintegration\\tecifbintegration\\views\\home\\autor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12ACB190-5F2E-43D6-AF6E-C424CD7B2B31}|TECIFBIntegration\\TECIFBIntegration.csproj|solutionrelative:tecifbintegration\\views\\home\\autor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12ACB190-5F2E-43D6-AF6E-C424CD7B2B31}|TECIFBIntegration\\TECIFBIntegration.csproj|c:\\users\\jzorro\\desktop\\tecs_inter\\tecifbintegration\\tecifbintegration\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12ACB190-5F2E-43D6-AF6E-C424CD7B2B31}|TECIFBIntegration\\TECIFBIntegration.csproj|solutionrelative:tecifbintegration\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E6CA539-F0A5-47BA-B404-BDA94B2D15C5}|AutorData\\AutorData.csproj|c:\\users\\jzorro\\desktop\\tecs_inter\\tecifbintegration\\autordata\\adata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E6CA539-F0A5-47BA-B404-BDA94B2D15C5}|AutorData\\AutorData.csproj|solutionrelative:autordata\\adata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C034A54-C622-4044-83FC-4074115CDB27}|AutoresAPI\\AutoresAPI.csproj|c:\\users\\jzorro\\desktop\\tecs_inter\\tecifbintegration\\autoresapi\\controllers\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C034A54-C622-4044-83FC-4074115CDB27}|AutoresAPI\\AutoresAPI.csproj|solutionrelative:autoresapi\\controllers\\autorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C034A54-C622-4044-83FC-4074115CDB27}|AutoresAPI\\AutoresAPI.csproj|c:\\users\\jzorro\\desktop\\tecs_inter\\tecifbintegration\\autoresapi\\files\\authors.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4C034A54-C622-4044-83FC-4074115CDB27}|AutoresAPI\\AutoresAPI.csproj|solutionrelative:autoresapi\\files\\authors.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD99691-7AE7-4458-AFF9-0574737BF022}|AutorBusiness\\AutorBusiness.csproj|c:\\users\\jzorro\\desktop\\tecs_inter\\tecifbintegration\\autorbusiness\\abusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AD99691-7AE7-4458-AFF9-0574737BF022}|AutorBusiness\\AutorBusiness.csproj|solutionrelative:autorbusiness\\abusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C034A54-C622-4044-83FC-4074115CDB27}|AutoresAPI\\AutoresAPI.csproj|c:\\users\\jzorro\\desktop\\tecs_inter\\tecifbintegration\\autoresapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C034A54-C622-4044-83FC-4074115CDB27}|AutoresAPI\\AutoresAPI.csproj|solutionrelative:autoresapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C034A54-C622-4044-83FC-4074115CDB27}|AutoresAPI\\AutoresAPI.csproj|c:\\users\\jzorro\\desktop\\tecs_inter\\tecifbintegration\\autoresapi\\autoresapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4C034A54-C622-4044-83FC-4074115CDB27}|AutoresAPI\\AutoresAPI.csproj|solutionrelative:autoresapi\\autoresapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AD99691-7AE7-4458-AFF9-0574737BF022}|AutorBusiness\\AutorBusiness.csproj|c:\\users\\jzorro\\desktop\\tecs_inter\\tecifbintegration\\autorbusiness\\autorbusiness.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4AD99691-7AE7-4458-AFF9-0574737BF022}|AutorBusiness\\AutorBusiness.csproj|solutionrelative:autorbusiness\\autorbusiness.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Usuarios.txt",
+              "DocumentMoniker": "C:\\Users\\Jzorro\\Desktop\\Tecs_Inter\\TECIFBIntegration\\AutoresAPI\\Files\\Usuarios.txt",
+              "RelativeDocumentMoniker": "AutoresAPI\\Files\\Usuarios.txt",
+              "ToolTip": "C:\\Users\\Jzorro\\Desktop\\Tecs_Inter\\TECIFBIntegration\\AutoresAPI\\Files\\Usuarios.txt",
+              "RelativeToolTip": "AutoresAPI\\Files\\Usuarios.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-18T15:44:49.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Autor.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jzorro\\Desktop\\Tecs_Inter\\TECIFBIntegration\\TECIFBIntegration\\Views\\Home\\Autor.cshtml",
+              "RelativeDocumentMoniker": "TECIFBIntegration\\Views\\Home\\Autor.cshtml",
+              "ToolTip": "C:\\Users\\Jzorro\\Desktop\\Tecs_Inter\\TECIFBIntegration\\TECIFBIntegration\\Views\\Home\\Autor.cshtml",
+              "RelativeToolTip": "TECIFBIntegration\\Views\\Home\\Autor.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-18T15:05:02.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserAPIService.cs",
+              "DocumentMoniker": "C:\\Users\\Jzorro\\Desktop\\Tecs_Inter\\TECIFBIntegration\\TECIFBIntegration\\APIServices\\UserAPIService.cs",
+              "RelativeDocumentMoniker": "TECIFBIntegration\\APIServices\\UserAPIService.cs",
+              "ToolTip": "C:\\Users\\Jzorro\\Desktop\\Tecs_Inter\\TECIFBIntegration\\TECIFBIntegration\\APIServices\\UserAPIService.cs",
+              "RelativeToolTip": "TECIFBIntegration\\APIServices\\UserAPIService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T14:54:16.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Jzorro\\Desktop\\Tecs_Inter\\TECIFBIntegration\\AutoresAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "AutoresAPI\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Jzorro\\Desktop\\Tecs_Inter\\TECIFBIntegration\\AutoresAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "AutoresAPI\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T14:22:01.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AutorController.cs",
+              "DocumentMoniker": "C:\\Users\\Jzorro\\Desktop\\Tecs_Inter\\TECIFBIntegration\\AutoresAPI\\Controllers\\AutorController.cs",
+              "RelativeDocumentMoniker": "AutoresAPI\\Controllers\\AutorController.cs",
+              "ToolTip": "C:\\Users\\Jzorro\\Desktop\\Tecs_Inter\\TECIFBIntegration\\AutoresAPI\\Controllers\\AutorController.cs",
+              "RelativeToolTip": "AutoresAPI\\Controllers\\AutorController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T14:21:41.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Jzorro\\Desktop\\Tecs_Inter\\TECIFBIntegration\\TECIFBIntegration\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TECIFBIntegration\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Jzorro\\Desktop\\Tecs_Inter\\TECIFBIntegration\\TECIFBIntegration\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TECIFBIntegration\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAAwI4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T13:32:33.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AutorAPIService.cs",
+              "DocumentMoniker": "C:\\Users\\Jzorro\\Desktop\\Tecs_Inter\\TECIFBIntegration\\TECIFBIntegration\\APIServices\\AutorAPIService.cs",
+              "RelativeDocumentMoniker": "TECIFBIntegration\\APIServices\\AutorAPIService.cs",
+              "ToolTip": "C:\\Users\\Jzorro\\Desktop\\Tecs_Inter\\TECIFBIntegration\\TECIFBIntegration\\APIServices\\AutorAPIService.cs",
+              "RelativeToolTip": "TECIFBIntegration\\APIServices\\AutorAPIService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T14:53:58.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Admin.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jzorro\\Desktop\\Tecs_Inter\\TECIFBIntegration\\TECIFBIntegration\\Views\\Home\\Admin.cshtml",
+              "RelativeDocumentMoniker": "TECIFBIntegration\\Views\\Home\\Admin.cshtml",
+              "ToolTip": "C:\\Users\\Jzorro\\Desktop\\Tecs_Inter\\TECIFBIntegration\\TECIFBIntegration\\Views\\Home\\Admin.cshtml",
+              "RelativeToolTip": "TECIFBIntegration\\Views\\Home\\Admin.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-18T15:06:20.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Autor.cs",
+              "DocumentMoniker": "C:\\Users\\Jzorro\\Desktop\\Tecs_Inter\\TECIFBIntegration\\AutorModels\\Autor.cs",
+              "RelativeDocumentMoniker": "AutorModels\\Autor.cs",
+              "ToolTip": "C:\\Users\\Jzorro\\Desktop\\Tecs_Inter\\TECIFBIntegration\\AutorModels\\Autor.cs",
+              "RelativeToolTip": "AutorModels\\Autor.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T13:41:10.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Jzorro\\Desktop\\Tecs_Inter\\TECIFBIntegration\\AutorModels\\Usuario.cs",
+              "RelativeDocumentMoniker": "AutorModels\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Jzorro\\Desktop\\Tecs_Inter\\TECIFBIntegration\\AutorModels\\Usuario.cs",
+              "RelativeToolTip": "AutorModels\\Usuario.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T13:56:05.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "APIService.cs",
+              "DocumentMoniker": "C:\\Users\\Jzorro\\Desktop\\Tecs_Inter\\TECIFBIntegration\\TECIFBIntegration\\APIServices\\APIService.cs",
+              "RelativeDocumentMoniker": "TECIFBIntegration\\APIServices\\APIService.cs",
+              "ToolTip": "C:\\Users\\Jzorro\\Desktop\\Tecs_Inter\\TECIFBIntegration\\TECIFBIntegration\\APIServices\\APIService.cs",
+              "RelativeToolTip": "TECIFBIntegration\\APIServices\\APIService.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAewJMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T14:46:29.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jzorro\\Desktop\\Tecs_Inter\\TECIFBIntegration\\TECIFBIntegration\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TECIFBIntegration\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Jzorro\\Desktop\\Tecs_Inter\\TECIFBIntegration\\TECIFBIntegration\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TECIFBIntegration\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACIAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-18T15:05:16.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jzorro\\Desktop\\Tecs_Inter\\TECIFBIntegration\\TECIFBIntegration\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "TECIFBIntegration\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Jzorro\\Desktop\\Tecs_Inter\\TECIFBIntegration\\TECIFBIntegration\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "TECIFBIntegration\\Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-18T15:06:05.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Jzorro\\Desktop\\Tecs_Inter\\TECIFBIntegration\\TECIFBIntegration\\Models\\GetsViewModel.cs",
+              "RelativeDocumentMoniker": "TECIFBIntegration\\Models\\GetsViewModel.cs",
+              "ToolTip": "C:\\Users\\Jzorro\\Desktop\\Tecs_Inter\\TECIFBIntegration\\TECIFBIntegration\\Models\\GetsViewModel.cs",
+              "RelativeToolTip": "TECIFBIntegration\\Models\\GetsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T15:36:30.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AutoresAPI",
+              "DocumentMoniker": "C:\\Users\\Jzorro\\Desktop\\Tecs_Inter\\TECIFBIntegration\\AutoresAPI\\AutoresAPI.csproj",
+              "RelativeDocumentMoniker": "AutoresAPI\\AutoresAPI.csproj",
+              "ToolTip": "C:\\Users\\Jzorro\\Desktop\\Tecs_Inter\\TECIFBIntegration\\AutoresAPI\\AutoresAPI.csproj",
+              "RelativeToolTip": "AutoresAPI\\AutoresAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-18T13:52:24.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "authors.txt",
+              "DocumentMoniker": "C:\\Users\\Jzorro\\Desktop\\Tecs_Inter\\TECIFBIntegration\\AutoresAPI\\Files\\authors.txt",
+              "RelativeDocumentMoniker": "AutoresAPI\\Files\\authors.txt",
+              "ToolTip": "C:\\Users\\Jzorro\\Desktop\\Tecs_Inter\\TECIFBIntegration\\AutoresAPI\\Files\\authors.txt",
+              "RelativeToolTip": "AutoresAPI\\Files\\authors.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-18T14:32:48.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AutorBusiness",
+              "DocumentMoniker": "C:\\Users\\Jzorro\\Desktop\\Tecs_Inter\\TECIFBIntegration\\AutorBusiness\\AutorBusiness.csproj",
+              "RelativeDocumentMoniker": "AutorBusiness\\AutorBusiness.csproj",
+              "ToolTip": "C:\\Users\\Jzorro\\Desktop\\Tecs_Inter\\TECIFBIntegration\\AutorBusiness\\AutorBusiness.csproj",
+              "RelativeToolTip": "AutorBusiness\\AutorBusiness.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-18T13:42:54.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ABusiness.cs",
+              "DocumentMoniker": "C:\\Users\\Jzorro\\Desktop\\Tecs_Inter\\TECIFBIntegration\\AutorBusiness\\ABusiness.cs",
+              "RelativeDocumentMoniker": "AutorBusiness\\ABusiness.cs",
+              "ToolTip": "C:\\Users\\Jzorro\\Desktop\\Tecs_Inter\\TECIFBIntegration\\AutorBusiness\\ABusiness.cs",
+              "RelativeToolTip": "AutorBusiness\\ABusiness.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T13:42:21.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AData.cs",
+              "DocumentMoniker": "C:\\Users\\Jzorro\\Desktop\\Tecs_Inter\\TECIFBIntegration\\AutorData\\AData.cs",
+              "RelativeDocumentMoniker": "AutorData\\AData.cs",
+              "ToolTip": "C:\\Users\\Jzorro\\Desktop\\Tecs_Inter\\TECIFBIntegration\\AutorData\\AData.cs",
+              "RelativeToolTip": "AutorData\\AData.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAkwBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T13:41:44.98Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

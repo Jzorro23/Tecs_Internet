@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AutorBusiness/1.0.0": {
+        "dependencies": {
+          "AutorData": "1.0.0",
+          "AutorModels": "1.0.0"
+        },
+        "runtime": {
+          "AutorBusiness.dll": {}
+        }
+      },
+      "AutorData/1.0.0": {
+        "dependencies": {
+          "AutorModels": "1.0.0"
+        },
+        "runtime": {
+          "AutorData.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "AutorModels/1.0.0": {
+        "runtime": {
+          "AutorModels.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AutorBusiness/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AutorData/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AutorModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

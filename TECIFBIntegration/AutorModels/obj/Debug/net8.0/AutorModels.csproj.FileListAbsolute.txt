@@ -1,0 +1,11 @@
+C:\Users\Jzorro\Desktop\Tecs_Inter\TECIFBIntegration\AutorModels\bin\Debug\net8.0\AutorModels.deps.json
+C:\Users\Jzorro\Desktop\Tecs_Inter\TECIFBIntegration\AutorModels\bin\Debug\net8.0\AutorModels.dll
+C:\Users\Jzorro\Desktop\Tecs_Inter\TECIFBIntegration\AutorModels\bin\Debug\net8.0\AutorModels.pdb
+C:\Users\Jzorro\Desktop\Tecs_Inter\TECIFBIntegration\AutorModels\obj\Debug\net8.0\AutorModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jzorro\Desktop\Tecs_Inter\TECIFBIntegration\AutorModels\obj\Debug\net8.0\AutorModels.AssemblyInfoInputs.cache
+C:\Users\Jzorro\Desktop\Tecs_Inter\TECIFBIntegration\AutorModels\obj\Debug\net8.0\AutorModels.AssemblyInfo.cs
+C:\Users\Jzorro\Desktop\Tecs_Inter\TECIFBIntegration\AutorModels\obj\Debug\net8.0\AutorModels.csproj.CoreCompileInputs.cache
+C:\Users\Jzorro\Desktop\Tecs_Inter\TECIFBIntegration\AutorModels\obj\Debug\net8.0\AutorModels.dll
+C:\Users\Jzorro\Desktop\Tecs_Inter\TECIFBIntegration\AutorModels\obj\Debug\net8.0\refint\AutorModels.dll
+C:\Users\Jzorro\Desktop\Tecs_Inter\TECIFBIntegration\AutorModels\obj\Debug\net8.0\AutorModels.pdb
+C:\Users\Jzorro\Desktop\Tecs_Inter\TECIFBIntegration\AutorModels\obj\Debug\net8.0\ref\AutorModels.dll

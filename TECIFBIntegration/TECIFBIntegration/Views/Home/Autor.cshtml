@@ -1,0 +1,73 @@
+﻿@model List<AutorModels.Autor>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h1>Existing Authors</h1>
+
+<div class="container" style="width:100%">
+
+    @if (Model != null)
+    {
+        <table id="Table_Autores" class="table table-striped" style="width:100%">
+            <colgroup>
+                <col style="width:10%">
+                <col style="width:25%">
+                <col style="width:25%">
+                <col style="width:20%">
+                <col style="width:10%">
+            </colgroup>
+            <thead>
+                <tr>
+
+                    <th class="bg-primary text-white fw-normal">
+                        @Html.Label("ID")
+                    </th>
+                    <th class="bg-primary text-white fw-normal">
+                        @Html.Label("Nombres")
+                    </th>
+                    <th class="bg-primary text-white fw-normal">
+                        @Html.Label("Apellidos")
+                    </th>
+                    <th class="bg-primary text-white fw-normal">
+                        @Html.Label("Fecha Nacimiento")
+                    </th>
+                    <th class="bg-primary text-white fw-normal">
+                        @Html.Label("Edad")
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (AutorModels.Autor oListItem in Model)
+                {
+                    <tr>
+                        <td>@oListItem.Id</td>
+                        <td>@oListItem.FirstName</td>
+                        <td>@oListItem.LastName</td>
+                        <td>@oListItem.BirthDate</td>
+                        <td>@oListItem.Edad</td>
+                    </tr>
+                }
+
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <div style="color:red;">No hay Autores registrados</div>
+    }
+</div>
+
+<h1>Get Author by name</h1>
+
+<form action="/Home/searchAuthorByName" method="get">
+    <div class="container">
+        <label for="aname"><b>Author Name</b></label>
+        <input type="text" placeholder="Enter Author Name" name="aname" required>
+
+        <button type="submit">Login</button>
+
+    </div>
+
+</form>

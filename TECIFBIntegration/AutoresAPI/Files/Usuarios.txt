@@ -1,0 +1,50 @@
+[
+  {
+    "Id": "bacede8c-5abc-4949-9b7e-d2d5d074db2e",
+    "Name": "NombreTest",
+    "Email": "CorreoTest@gmail.com",
+    "Password": "1234567890"
+  },
+  {
+    "Id": "be62ffa0-a17a-4a65-8334-0362897b1d3d",
+    "Name": "Mateo",
+    "Email": "mateollanos438@gmail.com",
+    "Password": "12345"
+  },
+  {
+    "Id": "d4b9e43e-6deb-428b-aede-d228ed7c0c39",
+    "Name": "hOLA",
+    "Email": "mateollanos439@gmail.com",
+    "Password": "RegisterUser"
+  },
+  {
+    "Id": "6c30a64b-3c42-46fa-b353-086a8d5f7230",
+    "Name": "Mateo",
+    "Email": "mateollanos440@gmail.com",
+    "Password": "12345"
+  },
+  {
+    "Id": "82eb02c3-ce24-40cb-bcf0-31c9b3202d28",
+    "Name": "Mateo",
+    "Email": "mateollanos441@gmail.com",
+    "Password": "123456"
+  },
+  {
+    "Id": "4d315e4d-c367-465c-a6af-f7f32588ca1e",
+    "Name": "Mateo",
+    "Email": "mateollanos431@gmail.com",
+    "Password": "12345"
+  },
+  {
+    "Id": "a7e9c48a-5164-433f-a70c-9fd51b7229b9",
+    "Name": "gian",
+    "Email": "mateollanos430@gmail.com",
+    "Password": "hola12345"
+  },
+  {
+    "Id": "1f488133-d763-4c40-a30b-94d2ccbf9923",
+    "Name": "Nombre",
+    "Email": "juancorreo@gmail.com",
+    "Password": "54789"
+  }
+]
